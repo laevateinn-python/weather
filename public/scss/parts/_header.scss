@@ -1,0 +1,114 @@
+.page-header {
+	width: 100%;
+	height: 75px;
+	background-color: $color-1;
+	box-shadow: $box-shadow-1;
+
+	.container {
+		height: 100%;
+
+		justify-content: space-between;
+		align-items: center;
+	}
+
+	&-logo {
+		@extend %link;
+		color: $color-2;
+		font-size: $font-size-5;
+		text-transform: lowercase;
+
+		outline: none;
+		transition: $transition-medium;
+
+		&:hover {
+			color: $color-3;
+		}
+
+		&:focus {
+			color: $color-3;
+		}
+
+		&__span {
+			color: $color-4;
+			font-weight: 600;
+			text-transform: uppercase;
+		}
+	}
+
+	&-search {
+		display: flex;
+		position: relative;
+
+		&__input {
+			width: 300;
+			height: 35px;
+
+			padding-left: $padding-3;
+
+			border: none;
+			border-bottom: 2px solid $color-2;
+
+			color: $color-2;
+			background-color: inherit;
+
+			font-style: italic;
+			font-weight: 300;
+
+			transition: $transition-medium;
+
+			&:focus {
+				outline: none;
+				border-bottom: 2px solid $color-4;
+			}
+
+			&::placeholder {
+				color: rgba(255, 255, 255, 0.5);
+				font-weight: 300;
+			}
+		}
+
+		&__button {
+			@extend %button;
+			width: 55px;
+			height: 35px;
+
+			background-color: $color-2;
+
+			transition: $transition-medium;
+			outline: none;
+
+			&:focus,
+			&:hover {
+				background-color: $color-4;
+			}
+
+			& svg {
+				width: 30px;
+				height: 30px;
+
+				fill: $color-1;
+				transition: $transition-medium;
+			}
+		}
+
+		&__result {
+			position: absolute;
+			top: calc(100% + 20px);
+			left: 0;
+
+			width: 100%;
+			height: 75px;
+
+			background-color: red;
+
+			display: none;
+			opacity: 0;
+			transition: $transition-slow;
+
+			&.active {
+				display: block;
+				opacity: 1;
+			}
+		}
+	}
+}

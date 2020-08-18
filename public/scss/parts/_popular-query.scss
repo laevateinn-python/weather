@@ -1,0 +1,43 @@
+.popular-query {
+  width: 100%;
+  margin: $padding-1 0;
+
+  &__title {
+    @extend %section-title;
+  }
+
+  &__list {
+    @extend %list;
+    width: 100%;
+    margin-top: $padding-1;
+
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    grid-gap: $padding-1;
+  }
+
+  &__city {
+    width: 100%;
+    height: 100%;
+
+    background-color: $color-2;
+    box-shadow: $box-shadow-1;
+  }
+
+  &__button {
+    @extend %button;
+    width: 100%;
+    height: 75px;
+
+    font-size: $font-size-2;
+    font-weight: 600;
+
+    transition: $transition-medium;
+
+    &:hover,
+    &:focus {
+      background-color: $color-3;
+      color: $color-2;
+    }
+  }
+}

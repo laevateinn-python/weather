@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>UA погода</title>
+
+  <link rel="shortcut icon" href="icon/favicon.svg" type="image/x-icon">
+
+  <link
+    href="https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap"
+    rel="stylesheet">
+
+  <link rel="stylesheet" href="css/style.css">
+
+  <script type="module" src="js/lib.js"></script>
+  <script type="module" src="js/main.js"></script>
+</head>
+
+<body class="page">
+  <header class="page-header">
+    <div class="container">
+      <a href="" class="page-header-logo">
+        <span class="page-header-logo__span">UA</span> погода
+      </a>
+
+      <form action="" class="page-header-search">
+        <input type="text" class="page-header-search__input" placeholder="Місто">
+        <button class="page-header-search__button">
+          <svg width="25" height="25" viewBox="0 0 16 16" xmlns="http://www.w3.org/2000/svg">
+            <path d="M10.442 10.442a1 1 0 0 1 1.415 0l3.85 3.85a1 1 0 0 1-1.414 1.415l-3.85-3.85a1 1 0 0 1 0-1.415z" />
+            <path d="M6.5 12a5.5 5.5 0 1 0 0-11 5.5 5.5 0 0 0 0 11zM13 6.5a6.5 6.5 0 1 1-13 0 6.5 6.5 0 0 1 13 0z" />
+          </svg>
+        </button>
+        <div class="page-header-search__result"></div>
+      </form>
+
+    </div>
+  </header>
+
+</body>
+
+</html>

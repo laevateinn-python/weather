@@ -1,0 +1,32 @@
+%link {
+  text-decoration: none;
+  color: inherit;
+}
+
+%button {
+  border: none;
+  background-color: inherit;
+
+  display: inline-flex;
+  justify-content: center;
+  align-items: center;
+
+  outline: none;
+  cursor: pointer;
+}
+
+%list {
+  list-style: none;
+}
+
+%section-title {
+  height: 35px;
+
+  display: inline-flex;
+  align-items: center;
+
+  font-size: $font-size-3;
+  font-weight: 600;
+
+  border-bottom: 1px solid $color-1;
+}

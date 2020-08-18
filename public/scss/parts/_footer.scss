@@ -1,0 +1,17 @@
+.page-footer {
+  width: 100%;
+  height: 50px;
+  background-color: $color-1;
+
+  .container {
+    height: 100%;
+    justify-content: center;
+    align-items: center;
+  }
+
+  &__copyright {
+    font-size: $font-size-4;
+    font-weight: 600;
+    color: $color-2;
+  }
+}

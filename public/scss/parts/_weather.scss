@@ -1,0 +1,171 @@
+.weather {
+  width: 100%;
+
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr 1fr;
+  grid-template-rows: 260px;
+  grid-gap: $padding-1;
+
+  // Частина з іконкою та датою
+  &__main {
+    width: 100%;
+    background-color: $color-2;
+    box-shadow: $box-shadow-1;
+  }
+
+  &__icon {
+    width: 100%;
+    height: 200px;
+  }
+
+  &__time {
+    width: 100%;
+    height: 50px;
+
+    display: inline-flex;
+    justify-content: center;
+    align-items: center;
+  }
+
+  // Частина з інформацією
+  &__information {
+    grid-column: 2 / -1;
+    width: 100%;
+    height: 260px;
+
+    padding: 0 $padding-2;
+    box-shadow: $box-shadow-1;
+    background-color: $color-2;
+  }
+
+  &__place {
+    width: 100%;
+    height: 40px;
+
+    display: inline-flex;
+    justify-content: center;
+    align-items: center;
+
+    font-size: $font-size-3;
+    font-weight: 600;
+
+    color: $color-1;
+    border-bottom: 1px solid $color-1;
+  }
+
+  &-params {
+    @extend %list;
+    width: 100%;
+    height: calc(100% - 45px);
+
+    padding: $padding-4 0;
+
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    align-items: flex-start;
+    justify-content: flex-start;
+    align-content: space-between;
+
+    &__item {
+      width: 33.333%;
+    }
+
+    &__text {
+      height: 30px;
+
+      display: inline-flex;
+      align-items: center;
+
+      margin-top: $padding-3;
+      padding-left: 35px;
+
+      background-size: contain;
+      background-repeat: no-repeat;
+      background-position: left center;
+
+      &_temperature {
+        background-image: url(../icon/favicon.svg);
+      }
+      &_description {
+        background-image: url(../icon/list.svg);
+      }
+      &_pressure {
+        background-image: url(../icon/pressure.svg);
+      }
+      &_humidity {
+        background-image: url(../icon/humidity.svg);
+      }
+      &_wind {
+        background-image: url(../icon/wind.svg);
+      }
+      &_sun {
+        background-image: url(../icon/sunrise.svg);
+      }
+      &_cloudy {
+        background-image: url(../icon/cloudy.svg);
+      }
+      &_rain {
+        background-image: url(../icon/rain.svg);
+      }
+      &_snow {
+        background-image: url(../icon/snow.svg);
+      }
+    }
+
+    &__value {
+      font-weight: 300;
+      font-style: italic;
+
+      margin-left: $padding-4;
+    }
+  }
+
+  &-more {
+    @extend %list;
+    padding-left: $padding-0;
+
+    &__params {
+      height: 20px;
+      font-weight: 300;
+    }
+  }
+
+  // Частина з погодинною інформацією
+  &-hourly {
+    grid-column: 1 / -1;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    grid-auto-rows: 200px;
+    grid-gap: $padding-1;
+
+    &__information {
+      width: 100%;
+      box-shadow: $box-shadow-1;
+      background-color: $color-2;
+
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+
+      padding: $padding-3;
+    }
+
+    &__hour,
+    &__temperature {
+      width: 100%;
+      height: 20px;
+
+      display: inline-flex;
+      justify-content: center;
+      align-items: center;
+
+      font-size: $font-size-3;
+    }
+
+    &__icon {
+      width: 100%;
+      height: calc(100% - 20px - 20px);
+    }
+  }
+}
