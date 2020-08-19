@@ -36,7 +36,7 @@ vocabulary = {
 def renameIcon(dat,path):
     try:
         pth = '.\\public\\img\\' + dat + path[len(path)-4:len(path)]
-        os.rename(path,pth)
+        #os.rename(path,pth)
         return pth
     except:
         return 
