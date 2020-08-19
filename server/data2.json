@@ -1,0 +1,3829 @@
+{
+    "citiesList": [
+        {
+            "areasID": 24,
+            "nameUA": "\u041a\u0438\u0457\u0432",
+            "nameEN": "Kyiv",
+            "latitude": 50.27,
+            "longitude": 30.3124,
+            "icon": ".\\public\\img\\Kyiv.png"
+        },
+        {
+            "areasID": 6,
+            "nameUA": "\u0425\u0430\u0440\u043a\u0456\u0432",
+            "nameEN": "Kharkiv",
+            "latitude": 50.016,
+            "longitude": 36.1353,
+            "icon": ".\\public\\img\\Kharkiv.png"
+        },
+        {
+            "areasID": 14,
+            "nameUA": "\u041e\u0434\u0435\u0441\u0430",
+            "nameEN": "Odesa",
+            "latitude": 46.2986,
+            "longitude": 30.44364,
+            "icon": ".\\public\\img\\Odesa.png"
+        },
+        {
+            "areasID": 3,
+            "nameUA": "\u0414\u043d\u0456\u043f\u0440\u043e",
+            "nameEN": "Dnipro",
+            "latitude": 48.27,
+            "longitude": 35.02,
+            "icon": ".\\public\\img\\Dnipro.png"
+        },
+        {
+            "areasID": 4,
+            "nameUA": "\u0414\u043e\u043d\u0435\u0446\u044c\u043a",
+            "nameEN": "Donetsk",
+            "latitude": 48.001,
+            "longitude": 37.4819,
+            "icon": ".\\public\\img\\Donetsk.png"
+        },
+        {
+            "areasID": 22,
+            "nameUA": "\u0417\u0430\u043f\u043e\u0440\u0456\u0436\u0436\u044f",
+            "nameEN": "Zaporizhia",
+            "latitude": 47.5,
+            "longitude": 35.1,
+            "icon": ".\\public\\img\\Zaporizhia.png"
+        },
+        {
+            "areasID": 12,
+            "nameUA": "\u041b\u044c\u0432\u0456\u0432",
+            "nameEN": "Lviv",
+            "latitude": 49.4948,
+            "longitude": 24.0051,
+            "icon": ".\\public\\img\\Lviv.png"
+        },
+        {
+            "areasID": 3,
+            "nameUA": "\u041a\u0440\u0438\u0432\u0438\u0439 \u0420\u0456\u0433",
+            "nameEN": "Kryvyi Rih",
+            "latitude": 47.5431,
+            "longitude": 33.0836,
+            "icon": ".\\public\\img\\Kryvyi Rih.png"
+        },
+        {
+            "areasID": 13,
+            "nameUA": "\u041c\u0438\u043a\u043e\u043b\u0430\u0457\u0432",
+            "nameEN": "Mykolaiv",
+            "latitude": 46.58,
+            "longitude": 32.0,
+            "icon": ".\\public\\img\\Mykolaiv.png"
+        },
+        {
+            "areasID": 4,
+            "nameUA": "\u041c\u0430\u0440\u0456\u0443\u043f\u043e\u043b\u044c",
+            "nameEN": "Mariupol",
+            "latitude": 47.545,
+            "longitude": 37.3258,
+            "icon": ".\\public\\img\\Mariupol.png"
+        },
+        {
+            "areasID": 11,
+            "nameUA": "\u041b\u0443\u0433\u0430\u043d\u0441\u044c\u043a",
+            "nameEN": "Luhansk",
+            "latitude": 48.34,
+            "longitude": 39.2,
+            "icon": ".\\public\\img\\Luhansk.png"
+        },
+        {
+            "areasID": 25,
+            "nameUA": "\u0421\u0435\u0432\u0430\u0441\u0442\u043e\u043f\u043e\u043b\u044c",
+            "nameEN": "Sevastopol",
+            "latitude": 44.36,
+            "longitude": 33.32,
+            "icon": ".\\public\\img\\Sevastopol.png"
+        },
+        {
+            "areasID": 19,
+            "nameUA": "\u0412\u0456\u043d\u043d\u0438\u0446\u044f",
+            "nameEN": "Vinnytsia",
+            "latitude": 49.14,
+            "longitude": 28.29,
+            "icon": ".\\public\\img\\Vinnytsia.png"
+        },
+        {
+            "areasID": 4,
+            "nameUA": "\u041c\u0430\u043a\u0456\u0457\u0432\u043a\u0430",
+            "nameEN": "Makiivka",
+            "latitude": 48.05,
+            "longitude": 38.04,
+            "icon": ".\\public\\img\\Makiivka.jpg"
+        },
+        {
+            "areasID": 26,
+            "nameUA": "\u0421\u0456\u043c\u0444\u0435\u0440\u043e\u043f\u043e\u043b\u044c",
+            "nameEN": "Simferopol",
+            "latitude": 44.577,
+            "longitude": 34.68,
+            "icon": ".\\public\\img\\Simferopol.png"
+        },
+        {
+            "areasID": 7,
+            "nameUA": "\u0425\u0435\u0440\u0441\u043e\u043d",
+            "nameEN": "Kherson",
+            "latitude": 46.38,
+            "longitude": 32.35,
+            "icon": ".\\public\\img\\Kherson.png"
+        },
+        {
+            "areasID": 15,
+            "nameUA": "\u041f\u043e\u043b\u0442\u0430\u0432\u0430",
+            "nameEN": "Poltava",
+            "latitude": 49.3522,
+            "longitude": 34.3305,
+            "icon": ".\\public\\img\\Poltava.png"
+        },
+        {
+            "areasID": 1,
+            "nameUA": "\u0427\u0435\u0440\u043d\u0456\u0433\u0456\u0432",
+            "nameEN": "Chernihiv",
+            "latitude": 51.3,
+            "longitude": 31.18,
+            "icon": ".\\public\\img\\Chernihiv.png"
+        },
+        {
+            "areasID": 0,
+            "nameUA": "\u0427\u0435\u0440\u043a\u0430\u0441\u0438",
+            "nameEN": "Cherkasy",
+            "latitude": 49.264,
+            "longitude": 32.0335,
+            "icon": ".\\public\\img\\Cherkasy.png"
+        },
+        {
+            "areasID": 8,
+            "nameUA": "\u0425\u043c\u0435\u043b\u044c\u043d\u0438\u0446\u044c\u043a\u0438\u0439",
+            "nameEN": "Khmelnytskyi",
+            "latitude": 49.25,
+            "longitude": 27.0,
+            "icon": ".\\public\\img\\Khmelnytskyi.png"
+        },
+        {
+            "areasID": 2,
+            "nameUA": "\u0427\u0435\u0440\u043d\u0456\u0432\u0446\u0456",
+            "nameEN": "Chernivtsi",
+            "latitude": 48.18,
+            "longitude": 25.56,
+            "icon": ".\\public\\img\\Chernivtsi.png"
+        },
+        {
+            "areasID": 23,
+            "nameUA": "\u0416\u0438\u0442\u043e\u043c\u0438\u0440",
+            "nameEN": "Zhytomyr",
+            "latitude": 50.15,
+            "longitude": 28.4,
+            "icon": ".\\public\\img\\Zhytomyr.png"
+        },
+        {
+            "areasID": 17,
+            "nameUA": "\u0421\u0443\u043c\u0438",
+            "nameEN": "Sumy",
+            "latitude": 50.55,
+            "longitude": 34.45,
+            "icon": ".\\public\\img\\Sumy.PNG"
+        },
+        {
+            "areasID": 16,
+            "nameUA": "\u0420\u0456\u0432\u043d\u0435",
+            "nameEN": "Rivne",
+            "latitude": 50.37,
+            "longitude": 26.15,
+            "icon": ".\\public\\img\\Rivne.png"
+        },
+        {
+            "areasID": 4,
+            "nameUA": "\u0413\u043e\u0440\u043b\u0456\u0432\u043a\u0430",
+            "nameEN": "Horlivka",
+            "latitude": 48.18,
+            "longitude": 38.3,
+            "icon": ".\\public\\img\\Horlivka.png"
+        },
+        {
+            "areasID": 5,
+            "nameUA": "\u0406\u0432\u0430\u043d\u043e-\u0424\u0440\u0430\u043d\u043a\u0456\u0432\u0441\u044c\u043a",
+            "nameEN": "Ivano-Frankivsk",
+            "latitude": 48.5522,
+            "longitude": 24.4238,
+            "icon": ".\\public\\img\\Ivano-Frankivsk.png"
+        },
+        {
+            "areasID": 3,
+            "nameUA": "\u041a\u0430\u043c'\u044f\u043d\u0441\u044c\u043a\u0435",
+            "nameEN": "Kamianske",
+            "latitude": 48.31,
+            "longitude": 34.37,
+            "icon": ".\\public\\img\\Kamianske.png"
+        },
+        {
+            "areasID": 10,
+            "nameUA": "\u041a\u0440\u043e\u043f\u0438\u0432\u043d\u0438\u0446\u044c\u043a\u0438\u0439",
+            "nameEN": "Kropyvnytskyi",
+            "latitude": 48.3,
+            "longitude": 32.16,
+            "icon": ".\\public\\img\\Kropyvnytskyi.png"
+        },
+        {
+            "areasID": 18,
+            "nameUA": "\u0422\u0435\u0440\u043d\u043e\u043f\u0456\u043b\u044c",
+            "nameEN": "Ternopil",
+            "latitude": 49.34,
+            "longitude": 25.36,
+            "icon": ".\\public\\img\\Ternopil.png"
+        },
+        {
+            "areasID": 15,
+            "nameUA": "\u041a\u0440\u0435\u043c\u0435\u043d\u0447\u0443\u043a",
+            "nameEN": "Kremenchuk",
+            "latitude": 49.04,
+            "longitude": 33.25,
+            "icon": ".\\public\\img\\Kremenchuk.png"
+        },
+        {
+            "areasID": 20,
+            "nameUA": "\u041b\u0443\u0446\u044c\u043a",
+            "nameEN": "Lutsk",
+            "latitude": 50.45,
+            "longitude": 25.2009,
+            "icon": ".\\public\\img\\Lutsk.png"
+        },
+        {
+            "areasID": 9,
+            "nameUA": "\u0411\u0456\u043b\u0430 \u0426\u0435\u0440\u043a\u0432\u0430",
+            "nameEN": "Bila Tserkva",
+            "latitude": 49.4756,
+            "longitude": 30.0655,
+            "icon": ".\\public\\img\\Bila Tserkva.png"
+        },
+        {
+            "areasID": 4,
+            "nameUA": "\u041a\u0440\u0430\u043c\u0430\u0442\u043e\u0440\u0441\u044c\u043a",
+            "nameEN": "Kramatorsk",
+            "latitude": 48.43,
+            "longitude": 37.32,
+            "icon": ".\\public\\img\\Kramatorsk.png"
+        },
+        {
+            "areasID": 22,
+            "nameUA": "\u041c\u0435\u043b\u0456\u0442\u043e\u043f\u043e\u043b\u044c",
+            "nameEN": "Melitopol",
+            "latitude": 46.5,
+            "longitude": 35.22,
+            "icon": ".\\public\\img\\Melitopol.png"
+        },
+        {
+            "areasID": 26,
+            "nameUA": "\u041a\u0435\u0440\u0447",
+            "nameEN": "Kerch",
+            "latitude": 45.2143,
+            "longitude": 36.2816,
+            "icon": ".\\public\\img\\Kerch.png"
+        },
+        {
+            "areasID": 21,
+            "nameUA": "\u0423\u0436\u0433\u043e\u0440\u043e\u0434",
+            "nameEN": "Uzhhorod",
+            "latitude": 48.3726,
+            "longitude": 22.1742,
+            "icon": ".\\public\\img\\Uzhhorod.png"
+        },
+        {
+            "areasID": 3,
+            "nameUA": "\u041d\u0456\u043a\u043e\u043f\u043e\u043b\u044c",
+            "nameEN": "Nikopol",
+            "latitude": 47.34,
+            "longitude": 34.24,
+            "icon": ".\\public\\img\\Nikopol.png"
+        },
+        {
+            "areasID": 22,
+            "nameUA": "\u0411\u0435\u0440\u0434\u044f\u043d\u0441\u044c\u043a",
+            "nameEN": "Berdiansk",
+            "latitude": 46.4535,
+            "longitude": 36.4704,
+            "icon": ".\\public\\img\\Berdiansk.png"
+        },
+        {
+            "areasID": 4,
+            "nameUA": "\u0421\u043b\u043e\u0432'\u044f\u043d\u0441\u044c\u043a",
+            "nameEN": "Sloviansk",
+            "latitude": 48.5112,
+            "longitude": 37.373,
+            "icon": ".\\public\\img\\Sloviansk.png"
+        },
+        {
+            "areasID": 26,
+            "nameUA": "\u0404\u0432\u043f\u0430\u0442\u043e\u0440\u0456\u044f",
+            "nameEN": "Yevpatoria",
+            "latitude": 45.1138,
+            "longitude": 33.225,
+            "icon": ".\\public\\img\\Yevpatoria.png"
+        },
+        {
+            "areasID": 11,
+            "nameUA": "\u0410\u043b\u0447\u0435\u0432\u0441\u044c\u043a",
+            "nameEN": "Alchevsk",
+            "latitude": 48.284,
+            "longitude": 38.4752,
+            "icon": ".\\public\\img\\Alchevsk.png"
+        },
+        {
+            "areasID": 9,
+            "nameUA": "\u0411\u0440\u043e\u0432\u0430\u0440\u0438",
+            "nameEN": "Brovary",
+            "latitude": 50.3,
+            "longitude": 30.46,
+            "icon": ".\\public\\img\\Brovary.PNG"
+        },
+        {
+            "areasID": 3,
+            "nameUA": "\u041f\u0430\u0432\u043b\u043e\u0433\u0440\u0430\u0434",
+            "nameEN": "Pavlohrad",
+            "latitude": 48.31,
+            "longitude": 35.52,
+            "icon": ".\\public\\img\\Pavlohrad.png"
+        },
+        {
+            "areasID": 11,
+            "nameUA": "\u0421\u0454\u0432\u0435\u0440\u043e\u0434\u043e\u043d\u0435\u0446\u044c\u043a",
+            "nameEN": "Sieverodonetsk",
+            "latitude": 48.56,
+            "longitude": 38.3,
+            "icon": null
+        },
+        {
+            "areasID": 8,
+            "nameUA": "\u041a\u0430\u043c'\u044f\u043d\u0435\u0446\u044c-\u041f\u043e\u0434\u0456\u043b\u044c\u0441\u044c\u043a\u0438\u0439",
+            "nameEN": "Kamianets-Podilskyi",
+            "latitude": 48.41,
+            "longitude": 26.35,
+            "icon": ".\\public\\img\\Kamianets-Podilskyi.png"
+        },
+        {
+            "areasID": 11,
+            "nameUA": "\u041b\u0438\u0441\u0438\u0447\u0430\u043d\u0441\u044c\u043a",
+            "nameEN": "Lysychansk",
+            "latitude": 48.55,
+            "longitude": 38.24,
+            "icon": ".\\public\\img\\Lysychansk.png"
+        },
+        {
+            "areasID": 17,
+            "nameUA": "\u041a\u043e\u043d\u043e\u0442\u043e\u043f",
+            "nameEN": "Konotop",
+            "latitude": 51.13,
+            "longitude": 33.12,
+            "icon": ".\\public\\img\\Konotop.png"
+        },
+        {
+            "areasID": 21,
+            "nameUA": "\u041c\u0443\u043a\u0430\u0447\u0435\u0432\u043e",
+            "nameEN": "Mukachevo",
+            "latitude": 48.27,
+            "longitude": 22.45,
+            "icon": ".\\public\\img\\Mukachevo.png"
+        },
+        {
+            "areasID": 0,
+            "nameUA": "\u0423\u043c\u0430\u043d\u044c",
+            "nameEN": "Uman",
+            "latitude": 48.45,
+            "longitude": 30.13,
+            "icon": ".\\public\\img\\Uman.png"
+        },
+        {
+            "areasID": 11,
+            "nameUA": "\u0425\u0440\u0443\u0441\u0442\u0430\u043b\u044c\u043d\u0438\u0439",
+            "nameEN": "Khrustalnyi",
+            "latitude": "",
+            "longitude": "",
+            "icon": ".\\public\\img\\Khrustalnyi.png"
+        },
+        {
+            "areasID": 10,
+            "nameUA": "\u041e\u043b\u0435\u043a\u0441\u0430\u043d\u0434\u0440\u0456\u044f",
+            "nameEN": "Oleksandriia",
+            "latitude": 48.4,
+            "longitude": 33.07,
+            "icon": ".\\public\\img\\Oleksandriia.gif"
+        },
+        {
+            "areasID": 26,
+            "nameUA": "\u042f\u043b\u0442\u0430",
+            "nameEN": "Yalta",
+            "latitude": 44.2958,
+            "longitude": 34.1012,
+            "icon": ".\\public\\img\\Yalta.png"
+        },
+        {
+            "areasID": 4,
+            "nameUA": "\u0404\u043d\u0430\u043a\u0456\u0454\u0432\u0435",
+            "nameEN": "Yenakiieve",
+            "latitude": 48.13,
+            "longitude": 38.12,
+            "icon": ".\\public\\img\\Yenakiieve.png"
+        },
+        {
+            "areasID": 12,
+            "nameUA": "\u0414\u0440\u043e\u0433\u043e\u0431\u0438\u0447",
+            "nameEN": "Drohobych",
+            "latitude": 49.21,
+            "longitude": 23.3,
+            "icon": ".\\public\\img\\Drohobych.png"
+        },
+        {
+            "areasID": 23,
+            "nameUA": "\u0411\u0435\u0440\u0434\u0438\u0447\u0456\u0432",
+            "nameEN": "Berdychiv",
+            "latitude": 49.54,
+            "longitude": 28.34,
+            "icon": ".\\public\\img\\Berdychiv.png"
+        },
+        {
+            "areasID": 17,
+            "nameUA": "\u0428\u043e\u0441\u0442\u043a\u0430",
+            "nameEN": "Shostka",
+            "latitude": 51.52,
+            "longitude": 33.29,
+            "icon": ".\\public\\img\\Shostka.PNG"
+        },
+        {
+            "areasID": 11,
+            "nameUA": "uk:\u041a\u0430\u0434\u0456\u0457\u0432\u043a\u0430",
+            "nameEN": "Kadiyivka",
+            "latitude": 48.3405,
+            "longitude": 38.3931,
+            "icon": null
+        },
+        {
+            "areasID": 4,
+            "nameUA": "\u0411\u0430\u0445\u043c\u0443\u0442",
+            "nameEN": "Bakhmut",
+            "latitude": 48.3529,
+            "longitude": 38.45,
+            "icon": ".\\public\\img\\Bakhmut.png"
+        },
+        {
+            "areasID": null,
+            "nameUA": "\u0406\u0437\u043c\u0430\u0457\u043b",
+            "nameEN": "Izmail",
+            "latitude": 45.216,
+            "longitude": 28.5011,
+            "icon": ".\\public\\img\\Izmail.png"
+        },
+        {
+            "areasID": 4,
+            "nameUA": "\u041a\u043e\u0441\u0442\u044f\u043d\u0442\u0438\u043d\u0456\u0432\u043a\u0430",
+            "nameEN": "Kostiantynivka",
+            "latitude": 48.32,
+            "longitude": 37.43,
+            "icon": ".\\public\\img\\Kostiantynivka.png"
+        },
+        {
+            "areasID": 3,
+            "nameUA": "\u041d\u043e\u0432\u043e\u043c\u043e\u0441\u043a\u043e\u0432\u0441\u044c\u043a",
+            "nameEN": "Novomoskovsk",
+            "latitude": 48.38,
+            "longitude": 35.13,
+            "icon": ".\\public\\img\\Novomoskovsk.png"
+        },
+        {
+            "areasID": 1,
+            "nameUA": "\u041d\u0456\u0436\u0438\u043d",
+            "nameEN": "Nizhyn",
+            "latitude": 51.0217,
+            "longitude": 31.531,
+            "icon": ".\\public\\img\\Nizhyn.png"
+        },
+        {
+            "areasID": 20,
+            "nameUA": "\u041a\u043e\u0432\u0435\u043b\u044c",
+            "nameEN": "Kovel",
+            "latitude": 51.13,
+            "longitude": 24.43,
+            "icon": ".\\public\\img\\Kovel.png"
+        },
+        {
+            "areasID": 26,
+            "nameUA": "\u0424\u0435\u043e\u0434\u043e\u0441\u0456\u044f",
+            "nameEN": "Feodosiya",
+            "latitude": 45.256,
+            "longitude": 35.2245,
+            "icon": ".\\public\\img\\Feodosiya.png"
+        },
+        {
+            "areasID": 0,
+            "nameUA": "\u0421\u043c\u0456\u043b\u0430",
+            "nameEN": "Smila",
+            "latitude": 49.1242,
+            "longitude": 31.5223,
+            "icon": ".\\public\\img\\Smila.gif"
+        },
+        {
+            "areasID": 12,
+            "nameUA": "\u0427\u0435\u0440\u0432\u043e\u043d\u043e\u0433\u0440\u0430\u0434",
+            "nameEN": "Chervonohrad",
+            "latitude": 50.2312,
+            "longitude": 24.1344,
+            "icon": ".\\public\\img\\Chervonohrad.png"
+        },
+        {
+            "areasID": 5,
+            "nameUA": "\u041a\u0430\u043b\u0443\u0448",
+            "nameEN": "Kalush",
+            "latitude": 49.0239,
+            "longitude": 24.2135,
+            "icon": ".\\public\\img\\Kalush.png"
+        },
+        {
+            "areasID": 13,
+            "nameUA": "\u041f\u0435\u0440\u0432\u043e\u043c\u0430\u0439\u0441\u044c\u043a",
+            "nameEN": "Pervomaisk",
+            "latitude": 48.0238,
+            "longitude": 30.51,
+            "icon": ".\\public\\img\\Pervomaisk.png"
+        },
+        {
+            "areasID": 11,
+            "nameUA": "uk:\u0414\u043e\u0432\u0436\u0430\u043d\u0441\u044c\u043a",
+            "nameEN": "Dovzhansk",
+            "latitude": 48.044,
+            "longitude": 39.385,
+            "icon": null
+        },
+        {
+            "areasID": 23,
+            "nameUA": "\u041a\u043e\u0440\u043e\u0441\u0442\u0435\u043d\u044c",
+            "nameEN": "Korosten",
+            "latitude": 50.57,
+            "longitude": 28.38,
+            "icon": ".\\public\\img\\Korosten.png"
+        },
+        {
+            "areasID": 4,
+            "nameUA": "\u041f\u043e\u043a\u0440\u043e\u0432\u0441\u044c\u043a",
+            "nameEN": "Pokrovsk",
+            "latitude": "",
+            "longitude": "",
+            "icon": ".\\public\\img\\Pokrovsk.png"
+        },
+        {
+            "areasID": 9,
+            "nameUA": "\u0411\u043e\u0440\u0438\u0441\u043f\u0456\u043b\u044c",
+            "nameEN": "Boryspil",
+            "latitude": 50.21,
+            "longitude": 30.57,
+            "icon": ".\\public\\img\\Boryspil.png"
+        },
+        {
+            "areasID": 5,
+            "nameUA": "\u041a\u043e\u043b\u043e\u043c\u0438\u044f",
+            "nameEN": "Kolomyia",
+            "latitude": 48.315,
+            "longitude": 25.0225,
+            "icon": ".\\public\\img\\Kolomyia.gif"
+        },
+        {
+            "areasID": 12,
+            "nameUA": "\u0421\u0442\u0440\u0438\u0439",
+            "nameEN": "Stryi",
+            "latitude": 49.1522,
+            "longitude": 23.511,
+            "icon": ".\\public\\img\\Stryi.png"
+        },
+        {
+            "areasID": null,
+            "nameUA": "\u0427\u043e\u0440\u043d\u043e\u043c\u043e\u0440\u0441\u044c\u043a",
+            "nameEN": "Chornomorsk",
+            "latitude": 46.1806,
+            "longitude": 30.3925,
+            "icon": ".\\public\\img\\Chornomorsk.png"
+        },
+        {
+            "areasID": 11,
+            "nameUA": "\u0420\u0443\u0431\u0456\u0436\u043d\u0435",
+            "nameEN": "Rubizhne",
+            "latitude": 49.0036,
+            "longitude": 38.2217,
+            "icon": ".\\public\\img\\Rubizhne.png"
+        },
+        {
+            "areasID": 4,
+            "nameUA": "\u0425\u0430\u0440\u0446\u0438\u0437\u044c\u043a",
+            "nameEN": "Khartsyzk",
+            "latitude": 48.0234,
+            "longitude": 38.0833,
+            "icon": ".\\public\\img\\Khartsyzk.gif"
+        },
+        {
+            "areasID": 4,
+            "nameUA": "\u0414\u0440\u0443\u0436\u043a\u0456\u0432\u043a\u0430",
+            "nameEN": "Druzhkivka",
+            "latitude": 48.3717,
+            "longitude": 37.314,
+            "icon": ".\\public\\img\\Druzhkivka.png"
+        },
+        {
+            "areasID": 9,
+            "nameUA": "\u0406\u0440\u043f\u0456\u043d\u044c",
+            "nameEN": "Irpin",
+            "latitude": 50.31,
+            "longitude": 30.15,
+            "icon": ".\\public\\img\\Irpin.png"
+        },
+        {
+            "areasID": 23,
+            "nameUA": "\u041d\u043e\u0432\u043e\u0433\u0440\u0430\u0434-\u0412\u043e\u043b\u0438\u043d\u0441\u044c\u043a\u0438\u0439",
+            "nameEN": "Novohrad-Volynskyi",
+            "latitude": 50.35,
+            "longitude": 27.38,
+            "icon": ".\\public\\img\\Novohrad-Volynskyi.png"
+        },
+        {
+            "areasID": 6,
+            "nameUA": "\u041b\u043e\u0437\u043e\u0432\u0430",
+            "nameEN": "Lozova",
+            "latitude": 48.53,
+            "longitude": 36.23,
+            "icon": ".\\public\\img\\Lozova.gif"
+        },
+        {
+            "areasID": 4,
+            "nameUA": "uk:\u0427\u0438\u0441\u0442\u044f\u043a\u043e\u0432\u0435",
+            "nameEN": "Chystiakove",
+            "latitude": 48.119,
+            "longitude": 38.3735,
+            "icon": null
+        },
+        {
+            "areasID": 1,
+            "nameUA": "\u041f\u0440\u0438\u043b\u0443\u043a\u0438",
+            "nameEN": "Pryluky",
+            "latitude": 50.3521,
+            "longitude": 32.2308,
+            "icon": ".\\public\\img\\Pryluky.png"
+        },
+        {
+            "areasID": 22,
+            "nameUA": "\u0415\u043d\u0435\u0440\u0433\u043e\u0434\u0430\u0440",
+            "nameEN": "Enerhodar",
+            "latitude": 47.2956,
+            "longitude": 34.3921,
+            "icon": ".\\public\\img\\Enerhodar.png"
+        },
+        {
+            "areasID": 11,
+            "nameUA": "\u0410\u043d\u0442\u0440\u0430\u0446\u0438\u0442",
+            "nameEN": "Antratsyt",
+            "latitude": 48.79,
+            "longitude": 39.524,
+            "icon": ".\\public\\img\\Antratsyt.png"
+        },
+        {
+            "areasID": 20,
+            "nameUA": "\u041d\u043e\u0432\u043e\u0432\u043e\u043b\u0438\u043d\u0441\u044c\u043a",
+            "nameEN": "Novovolynsk",
+            "latitude": 50.44,
+            "longitude": 24.1,
+            "icon": ".\\public\\img\\Novovolynsk.png"
+        },
+        {
+            "areasID": 15,
+            "nameUA": "\u0413\u043e\u0440\u0456\u0448\u043d\u0456 \u041f\u043b\u0430\u0432\u043d\u0456",
+            "nameEN": "Horishni Plavni",
+            "latitude": 49.01,
+            "longitude": 33.4,
+            "icon": ".\\public\\img\\Horishni Plavni.png"
+        },
+        {
+            "areasID": null,
+            "nameUA": "\u0411\u0456\u043b\u0433\u043e\u0440\u043e\u0434-\u0414\u043d\u0456\u0441\u0442\u0440\u043e\u0432\u0441\u044c\u043a\u0438\u0439",
+            "nameEN": "Bilhorod-Dnistrovskyi",
+            "latitude": 46.1132,
+            "longitude": 30.2,
+            "icon": ".\\public\\img\\Bilhorod-Dnistrovskyi.png"
+        },
+        {
+            "areasID": 4,
+            "nameUA": "\u0428\u0430\u0445\u0442\u0430\u0440\u0441\u044c\u043a",
+            "nameEN": "Shakhtarsk",
+            "latitude": 48.0249,
+            "longitude": 38.287,
+            "icon": ".\\public\\img\\Shakhtarsk.png"
+        },
+        {
+            "areasID": 4,
+            "nameUA": "\u041c\u0438\u0440\u043d\u043e\u0433\u0440\u0430\u0434",
+            "nameEN": "Myrnohrad",
+            "latitude": 48.1728,
+            "longitude": 37.1605,
+            "icon": ".\\public\\img\\Myrnohrad.png"
+        },
+        {
+            "areasID": 17,
+            "nameUA": "\u041e\u0445\u0442\u0438\u0440\u043a\u0430",
+            "nameEN": "Okhtyrka",
+            "latitude": 50.113,
+            "longitude": 34.57,
+            "icon": ".\\public\\img\\Okhtyrka.png"
+        },
+        {
+            "areasID": 6,
+            "nameUA": "\u0406\u0437\u044e\u043c",
+            "nameEN": "Izium",
+            "latitude": 49.1246,
+            "longitude": 37.1525,
+            "icon": ".\\public\\img\\Izium.png"
+        },
+        {
+            "areasID": 3,
+            "nameUA": "\u041c\u0430\u0440\u0433\u0430\u043d\u0435\u0446\u044c",
+            "nameEN": "Marhanets",
+            "latitude": 47.3841,
+            "longitude": 34.3615,
+            "icon": ".\\public\\img\\Marhanets.png"
+        },
+        {
+            "areasID": 4,
+            "nameUA": "\u0421\u043d\u0456\u0436\u043d\u0435",
+            "nameEN": "Snizhne",
+            "latitude": 48.01418,
+            "longitude": 38.45562,
+            "icon": ".\\public\\img\\Snizhne.png"
+        },
+        {
+            "areasID": 9,
+            "nameUA": "\u0424\u0430\u0441\u0442\u0456\u0432",
+            "nameEN": "Fastiv",
+            "latitude": 50.05,
+            "longitude": 29.55,
+            "icon": ".\\public\\img\\Fastiv.png"
+        },
+        {
+            "areasID": 11,
+            "nameUA": "\u0420\u043e\u0432\u0435\u043d\u044c\u043a\u0438",
+            "nameEN": "Rovenky",
+            "latitude": 48.0416,
+            "longitude": 39.2034,
+            "icon": ".\\public\\img\\Rovenky.gif"
+        },
+        {
+            "areasID": 7,
+            "nameUA": "\u041d\u043e\u0432\u0430 \u041a\u0430\u0445\u043e\u0432\u043a\u0430",
+            "nameEN": "Nova Kakhovka",
+            "latitude": 46.46,
+            "longitude": 33.22,
+            "icon": ".\\public\\img\\Nova Kakhovka.png"
+        },
+        {
+            "areasID": 11,
+            "nameUA": "\u0411\u0440\u044f\u043d\u043a\u0430",
+            "nameEN": "Brianka",
+            "latitude": 48.3048,
+            "longitude": 38.3835,
+            "icon": ".\\public\\img\\Brianka.gif"
+        },
+        {
+            "areasID": 15,
+            "nameUA": "\u041b\u0443\u0431\u043d\u0438",
+            "nameEN": "Lubny",
+            "latitude": 50.01,
+            "longitude": 33.0,
+            "icon": ".\\public\\img\\Lubny.png"
+        },
+        {
+            "areasID": 10,
+            "nameUA": "\u0421\u0432\u0456\u0442\u043b\u043e\u0432\u043e\u0434\u0441\u044c\u043a",
+            "nameEN": "Svitlovodsk",
+            "latitude": 49.31,
+            "longitude": 33.1431,
+            "icon": ".\\public\\img\\Svitlovodsk.png"
+        },
+        {
+            "areasID": 3,
+            "nameUA": "\u0416\u043e\u0432\u0442\u0456 \u0412\u043e\u0434\u0438",
+            "nameEN": "Zhovti Vody",
+            "latitude": 48.21,
+            "longitude": 33.3,
+            "icon": ".\\public\\img\\Zhovti Vody.png"
+        },
+        {
+            "areasID": 11,
+            "nameUA": "\u0421\u043e\u0440\u043e\u043a\u0438\u043d\u0435",
+            "nameEN": "Sorokyne",
+            "latitude": 48.18,
+            "longitude": 39.44,
+            "icon": ".\\public\\img\\Sorokyne.PNG"
+        },
+        {
+            "areasID": 16,
+            "nameUA": "\u0412\u0430\u0440\u0430\u0448",
+            "nameEN": "Varash",
+            "latitude": 51.204,
+            "longitude": 25.5103,
+            "icon": ".\\public\\img\\Varash.png"
+        },
+        {
+            "areasID": 8,
+            "nameUA": "\u0428\u0435\u043f\u0435\u0442\u0456\u0432\u043a\u0430",
+            "nameEN": "Shepetivka",
+            "latitude": 50.11,
+            "longitude": 27.04,
+            "icon": ".\\public\\img\\Shepetivka.png"
+        },
+        {
+            "areasID": 9,
+            "nameUA": "\u0412\u0438\u0448\u043d\u0435\u0432\u0435",
+            "nameEN": "Vyshneve",
+            "latitude": 50.2313,
+            "longitude": 30.2129,
+            "icon": ".\\public\\img\\Vyshneve.png"
+        },
+        {
+            "areasID": null,
+            "nameUA": "\u041f\u043e\u0434\u0456\u043b\u044c\u0441\u044c\u043a",
+            "nameEN": "Podilsk",
+            "latitude": 47.4431,
+            "longitude": 29.3206,
+            "icon": ".\\public\\img\\Podilsk.png"
+        },
+        {
+            "areasID": 13,
+            "nameUA": "\u042e\u0436\u043d\u043e\u0443\u043a\u0440\u0430\u0457\u043d\u0441\u044c\u043a",
+            "nameEN": "Yuzhnoukrainsk",
+            "latitude": 47.4918,
+            "longitude": 31.103,
+            "icon": ".\\public\\img\\Yuzhnoukrainsk.PNG"
+        },
+        {
+            "areasID": 15,
+            "nameUA": "\u041c\u0438\u0440\u0433\u043e\u0440\u043e\u0434",
+            "nameEN": "Myrhorod",
+            "latitude": 49.58,
+            "longitude": 33.36,
+            "icon": ".\\public\\img\\Myrhorod.png"
+        },
+        {
+            "areasID": 17,
+            "nameUA": "\u0420\u043e\u043c\u043d\u0438",
+            "nameEN": "Romny",
+            "latitude": 50.45,
+            "longitude": 33.28,
+            "icon": ".\\public\\img\\Romny.png"
+        },
+        {
+            "areasID": 3,
+            "nameUA": "\u041f\u043e\u043a\u0440\u043e\u0432",
+            "nameEN": "Pokrov",
+            "latitude": 47.4,
+            "longitude": 34.3,
+            "icon": ".\\public\\img\\Pokrov.png"
+        },
+        {
+            "areasID": 20,
+            "nameUA": "\u0412\u043e\u043b\u043e\u0434\u0438\u043c\u0438\u0440-\u0412\u043e\u043b\u0438\u043d\u0441\u044c\u043a\u0438\u0439",
+            "nameEN": "Volodymyr-Volynskyi",
+            "latitude": 50.5053,
+            "longitude": 24.192,
+            "icon": ".\\public\\img\\Volodymyr-Volynskyi.png"
+        },
+        {
+            "areasID": 26,
+            "nameUA": "\u0414\u0436\u0430\u043d\u043a\u043e\u0439",
+            "nameEN": "Dzhankoy",
+            "latitude": 45.4231,
+            "longitude": 34.2336,
+            "icon": ".\\public\\img\\Dzhankoy.png"
+        },
+        {
+            "areasID": 9,
+            "nameUA": "\u0412\u0430\u0441\u0438\u043b\u044c\u043a\u0456\u0432",
+            "nameEN": "Vasylkiv",
+            "latitude": 50.1042,
+            "longitude": 30.1857,
+            "icon": ".\\public\\img\\Vasylkiv.png"
+        },
+        {
+            "areasID": 16,
+            "nameUA": "\u0414\u0443\u0431\u043d\u043e",
+            "nameEN": "Dubno",
+            "latitude": 50.2335,
+            "longitude": 25.4406,
+            "icon": ".\\public\\img\\Dubno.png"
+        },
+        {
+            "areasID": 8,
+            "nameUA": "\u041d\u0435\u0442\u0456\u0448\u0438\u043d",
+            "nameEN": "Netishyn",
+            "latitude": 50.21,
+            "longitude": 26.38,
+            "icon": ".\\public\\img\\Netishyn.png"
+        },
+        {
+            "areasID": 11,
+            "nameUA": "\u041f\u0435\u0440\u0432\u043e\u043c\u0430\u0439\u0441\u044c\u043a",
+            "nameEN": "Pervomaisk",
+            "latitude": 48.3747,
+            "longitude": 38.3343,
+            "icon": ".\\public\\img\\Pervomaisk.png"
+        },
+        {
+            "areasID": 7,
+            "nameUA": "\u041a\u0430\u0445\u043e\u0432\u043a\u0430",
+            "nameEN": "Kakhovka",
+            "latitude": 46.4752,
+            "longitude": 33.283,
+            "icon": ".\\public\\img\\Kakhovka.png"
+        },
+        {
+            "areasID": 8,
+            "nameUA": "\u0421\u043b\u0430\u0432\u0443\u0442\u0430",
+            "nameEN": "Slavuta",
+            "latitude": 50.181,
+            "longitude": 26.5206,
+            "icon": ".\\public\\img\\Slavuta.png"
+        },
+        {
+            "areasID": 9,
+            "nameUA": "\u0411\u043e\u044f\u0440\u043a\u0430",
+            "nameEN": "Boiarka",
+            "latitude": 50.1945,
+            "longitude": 30.1719,
+            "icon": ".\\public\\img\\Boiarka.png"
+        },
+        {
+            "areasID": 9,
+            "nameUA": "\u0411\u0443\u0447\u0430",
+            "nameEN": "Bucha",
+            "latitude": 50.332715,
+            "longitude": 30.133617,
+            "icon": ".\\public\\img\\Bucha.png"
+        },
+        {
+            "areasID": 12,
+            "nameUA": "\u0421\u0430\u043c\u0431\u0456\u0440",
+            "nameEN": "Sambir",
+            "latitude": 49.31,
+            "longitude": 23.121,
+            "icon": ".\\public\\img\\Sambir.png"
+        },
+        {
+            "areasID": 13,
+            "nameUA": "\u0412\u043e\u0437\u043d\u0435\u0441\u0435\u043d\u0441\u044c\u043a",
+            "nameEN": "Voznesensk",
+            "latitude": 47.34,
+            "longitude": 31.18,
+            "icon": ".\\public\\img\\Voznesensk.png"
+        },
+        {
+            "areasID": 4,
+            "nameUA": "\u042f\u0441\u0438\u043d\u0443\u0432\u0430\u0442\u0430",
+            "nameEN": "Yasynuvata",
+            "latitude": 48.74,
+            "longitude": 37.5145,
+            "icon": ".\\public\\img\\Yasynuvata.png"
+        },
+        {
+            "areasID": 8,
+            "nameUA": "\u0421\u0442\u0430\u0440\u043e\u043a\u043e\u0441\u0442\u044f\u043d\u0442\u0438\u043d\u0456\u0432",
+            "nameEN": "Starokostiantyniv",
+            "latitude": 49.4514,
+            "longitude": 27.1313,
+            "icon": ".\\public\\img\\Starokostiantyniv.png"
+        },
+        {
+            "areasID": 19,
+            "nameUA": "\u0416\u043c\u0435\u0440\u0438\u043d\u043a\u0430",
+            "nameEN": "Zhmerynka",
+            "latitude": 49.03,
+            "longitude": 28.06,
+            "icon": ".\\public\\img\\Zhmerynka.PNG"
+        },
+        {
+            "areasID": 12,
+            "nameUA": "\u0411\u043e\u0440\u0438\u0441\u043b\u0430\u0432",
+            "nameEN": "Boryslav",
+            "latitude": 49.1721,
+            "longitude": 23.2508,
+            "icon": ".\\public\\img\\Boryslav.png"
+        },
+        {
+            "areasID": 9,
+            "nameUA": "\u041e\u0431\u0443\u0445\u0456\u0432",
+            "nameEN": "Obukhiv",
+            "latitude": 50.748,
+            "longitude": 30.3924,
+            "icon": ".\\public\\img\\Obukhiv.png"
+        },
+        {
+            "areasID": 17,
+            "nameUA": "\u0413\u043b\u0443\u0445\u0456\u0432",
+            "nameEN": "Hlukhiv",
+            "latitude": 51.4029,
+            "longitude": 33.5448,
+            "icon": ".\\public\\img\\Hlukhiv.png"
+        },
+        {
+            "areasID": 4,
+            "nameUA": "\u0410\u0432\u0434\u0456\u0457\u0432\u043a\u0430",
+            "nameEN": "Avdiivka",
+            "latitude": 48.0843,
+            "longitude": 37.4442,
+            "icon": ".\\public\\img\\Avdiivka.png"
+        },
+        {
+            "areasID": null,
+            "nameUA": "\u042e\u0436\u043d\u0435",
+            "nameEN": "Yuzhne",
+            "latitude": 46.3725,
+            "longitude": 31.0604,
+            "icon": ".\\public\\img\\Yuzhne.png"
+        },
+        {
+            "areasID": 4,
+            "nameUA": "\u0422\u043e\u0440\u0435\u0446\u044c\u043a",
+            "nameEN": "Toretsk",
+            "latitude": 48.233,
+            "longitude": 37.5224,
+            "icon": ".\\public\\img\\Toretsk.png"
+        },
+        {
+            "areasID": 6,
+            "nameUA": "\u0427\u0443\u0433\u0443\u0457\u0432",
+            "nameEN": "Chuhuiv",
+            "latitude": 49.508,
+            "longitude": 36.4111,
+            "icon": ".\\public\\img\\Chuhuiv.png"
+        },
+        {
+            "areasID": 16,
+            "nameUA": "\u041a\u043e\u0441\u0442\u043e\u043f\u0456\u043b\u044c",
+            "nameEN": "Kostopil",
+            "latitude": 50.53,
+            "longitude": 26.27,
+            "icon": ".\\public\\img\\Kostopil.png"
+        },
+        {
+            "areasID": 12,
+            "nameUA": "uk:\u041d\u043e\u0432\u043e\u044f\u0432\u043e\u0440\u0456\u0432\u0441\u044c\u043a",
+            "nameEN": "Novoiavorivsk",
+            "latitude": 49.5552,
+            "longitude": 23.3423,
+            "icon": null
+        },
+        {
+            "areasID": 22,
+            "nameUA": "\u0422\u043e\u043a\u043c\u0430\u043a",
+            "nameEN": "Tokmak",
+            "latitude": 47.15,
+            "longitude": 35.42,
+            "icon": ".\\public\\img\\Tokmak.png"
+        },
+        {
+            "areasID": 19,
+            "nameUA": "\u041c\u043e\u0433\u0438\u043b\u0456\u0432-\u041f\u043e\u0434\u0456\u043b\u044c\u0441\u044c\u043a\u0438\u0439",
+            "nameEN": "Mohyliv-Podilskyi",
+            "latitude": 48.27,
+            "longitude": 27.47,
+            "icon": ".\\public\\img\\Mohyliv-Podilskyi.png"
+        },
+        {
+            "areasID": 3,
+            "nameUA": "\u0421\u0438\u043d\u0435\u043b\u044c\u043d\u0438\u043a\u043e\u0432\u0435",
+            "nameEN": "Synelnykove",
+            "latitude": "",
+            "longitude": "",
+            "icon": ".\\public\\img\\Synelnykove.png"
+        },
+        {
+            "areasID": 26,
+            "nameUA": "\u0410\u043b\u0443\u0448\u0442\u0430",
+            "nameEN": "Alushta",
+            "latitude": 44.402,
+            "longitude": 34.2352,
+            "icon": ".\\public\\img\\Alushta.png"
+        },
+        {
+            "areasID": 9,
+            "nameUA": "\u0412\u0438\u0448\u0433\u043e\u0440\u043e\u0434",
+            "nameEN": "Vyshhorod",
+            "latitude": 50.35,
+            "longitude": 30.3,
+            "icon": ".\\public\\img\\Vyshhorod.png"
+        },
+        {
+            "areasID": 6,
+            "nameUA": "\u041f\u0435\u0440\u0432\u043e\u043c\u0430\u0439\u0441\u044c\u043a\u0438\u0439",
+            "nameEN": "Pervomaiskyi",
+            "latitude": 49.2313,
+            "longitude": 36.1251,
+            "icon": ".\\public\\img\\Pervomaiskyi.png"
+        },
+        {
+            "areasID": 4,
+            "nameUA": "\u0414\u043e\u0431\u0440\u043e\u043f\u0456\u043b\u043b\u044f",
+            "nameEN": "Dobropillia",
+            "latitude": 48.2808,
+            "longitude": 37.0458,
+            "icon": ".\\public\\img\\Dobropillia.png"
+        },
+        {
+            "areasID": 16,
+            "nameUA": "\u0421\u0430\u0440\u043d\u0438",
+            "nameEN": "Sarny",
+            "latitude": 51.2014,
+            "longitude": 26.3621,
+            "icon": ".\\public\\img\\Sarny.png"
+        },
+        {
+            "areasID": 18,
+            "nameUA": "\u0427\u043e\u0440\u0442\u043a\u0456\u0432",
+            "nameEN": "Chortkiv",
+            "latitude": 49.0027,
+            "longitude": 25.4726,
+            "icon": ".\\public\\img\\Chortkiv.PNG"
+        },
+        {
+            "areasID": 12,
+            "nameUA": "\u0422\u0440\u0443\u0441\u043a\u0430\u0432\u0435\u0446\u044c",
+            "nameEN": "Truskavets",
+            "latitude": 49.165,
+            "longitude": 23.3018,
+            "icon": ".\\public\\img\\Truskavets.png"
+        },
+        {
+            "areasID": 12,
+            "nameUA": "\u041d\u043e\u0432\u0438\u0439 \u0440\u043e\u0437\u0434\u0456\u043b",
+            "nameEN": "Novyi Rozdil",
+            "latitude": 49.2811,
+            "longitude": 24.0812,
+            "icon": ".\\public\\img\\Novyi Rozdil.png"
+        },
+        {
+            "areasID": 21,
+            "nameUA": "\u0425\u0443\u0441\u0442",
+            "nameEN": "Khust",
+            "latitude": 48.1053,
+            "longitude": 23.1752,
+            "icon": ".\\public\\img\\Khust.png"
+        },
+        {
+            "areasID": 3,
+            "nameUA": "\u041f\u0435\u0440\u0448\u043e\u0442\u0440\u0430\u0432\u0435\u043d\u0441\u044c\u043a",
+            "nameEN": "Pershotravensk",
+            "latitude": 48.2051,
+            "longitude": 36.2406,
+            "icon": ".\\public\\img\\Pershotravensk.png"
+        },
+        {
+            "areasID": 6,
+            "nameUA": "\u041a\u0443\u043f'\u044f\u043d\u0441\u044c\u043a",
+            "nameEN": "Kupiansk",
+            "latitude": "",
+            "longitude": "",
+            "icon": ".\\public\\img\\Kupiansk.png"
+        },
+        {
+            "areasID": 3,
+            "nameUA": "\u0422\u0435\u0440\u043d\u0456\u0432\u043a\u0430",
+            "nameEN": "Ternivka",
+            "latitude": 48.31,
+            "longitude": 36.0,
+            "icon": ".\\public\\img\\Ternivka.png"
+        },
+        {
+            "areasID": 0,
+            "nameUA": "\u0417\u043e\u043b\u043e\u0442\u043e\u043d\u043e\u0448\u0430",
+            "nameEN": "Zolotonosha",
+            "latitude": 49.4,
+            "longitude": 32.2,
+            "icon": ".\\public\\img\\Zolotonosha.png"
+        },
+        {
+            "areasID": 19,
+            "nameUA": "\u0425\u043c\u0456\u043b\u044c\u043d\u0438\u043a",
+            "nameEN": "Khmilnyk",
+            "latitude": 49.3325,
+            "longitude": 27.5726,
+            "icon": ".\\public\\img\\Khmilnyk.png"
+        },
+        {
+            "areasID": 6,
+            "nameUA": "\u0411\u0430\u043b\u0430\u043a\u043b\u0456\u044f",
+            "nameEN": "Balakliia",
+            "latitude": 49.2757,
+            "longitude": 36.5204,
+            "icon": ".\\public\\img\\Balakliia.png"
+        },
+        {
+            "areasID": 4,
+            "nameUA": "\u0425\u0440\u0435\u0441\u0442\u0456\u0432\u043a\u0430",
+            "nameEN": "Khrestivka",
+            "latitude": "",
+            "longitude": "",
+            "icon": ".\\public\\img\\Khrestivka.png"
+        },
+        {
+            "areasID": 11,
+            "nameUA": "\u0413\u043e\u043b\u0443\u0431\u0456\u0432\u043a\u0430",
+            "nameEN": "Holubivka",
+            "latitude": 48.3815,
+            "longitude": 38.3836,
+            "icon": ".\\public\\img\\Holubivka.png"
+        },
+        {
+            "areasID": 9,
+            "nameUA": "\u041f\u0435\u0440\u0435\u044f\u0441\u043b\u0430\u0432",
+            "nameEN": "Pereiaslav",
+            "latitude": 50.0358,
+            "longitude": 31.2632,
+            "icon": ".\\public\\img\\Pereiaslav.PNG"
+        },
+        {
+            "areasID": 26,
+            "nameUA": "\u0411\u0430\u0445\u0447\u0438\u0441\u0430\u0440\u0430\u0439",
+            "nameEN": "Bakhchisaray",
+            "latitude": 44.451,
+            "longitude": 33.5139,
+            "icon": ".\\public\\img\\Bakhchisaray.png"
+        },
+        {
+            "areasID": 23,
+            "nameUA": "\u041c\u0430\u043b\u0438\u043d",
+            "nameEN": "Malyn",
+            "latitude": 50.468,
+            "longitude": 29.1612,
+            "icon": ".\\public\\img\\Malyn.png"
+        },
+        {
+            "areasID": 19,
+            "nameUA": "\u0413\u0430\u0439\u0441\u0438\u043d",
+            "nameEN": "Haisyn",
+            "latitude": 48.4837,
+            "longitude": 29.233,
+            "icon": ".\\public\\img\\Haisyn.PNG"
+        },
+        {
+            "areasID": 21,
+            "nameUA": "\u0412\u0438\u043d\u043e\u0433\u0440\u0430\u0434\u0456\u0432",
+            "nameEN": "Vynohradiv",
+            "latitude": 48.0859,
+            "longitude": 23.013,
+            "icon": ".\\public\\img\\Vynohradiv.jpg"
+        },
+        {
+            "areasID": 26,
+            "nameUA": "\u041a\u0440\u0430\u0441\u043d\u043e\u043f\u0435\u0440\u0435\u043a\u043e\u043f\u0441\u044c\u043a",
+            "nameEN": "Krasnoperekopsk",
+            "latitude": 45.583,
+            "longitude": 33.481,
+            "icon": ".\\public\\img\\Krasnoperekopsk.png"
+        },
+        {
+            "areasID": 11,
+            "nameUA": "\u041f\u0435\u0440\u0435\u0432\u0430\u043b\u044c\u0441\u044c\u043a",
+            "nameEN": "Perevalsk",
+            "latitude": 48.26,
+            "longitude": 38.49,
+            "icon": ".\\public\\img\\Perevalsk.png"
+        },
+        {
+            "areasID": 23,
+            "nameUA": "\u041a\u043e\u0440\u043e\u0441\u0442\u0438\u0448\u0456\u0432",
+            "nameEN": "Korostyshiv",
+            "latitude": "",
+            "longitude": "",
+            "icon": ".\\public\\img\\Korostyshiv.png"
+        },
+        {
+            "areasID": 9,
+            "nameUA": "\u0421\u043b\u0430\u0432\u0443\u0442\u0438\u0447",
+            "nameEN": "Slavutych",
+            "latitude": 51.3114,
+            "longitude": 30.4525,
+            "icon": ".\\public\\img\\Slavutych.png"
+        },
+        {
+            "areasID": 17,
+            "nameUA": "\u041b\u0435\u0431\u0435\u0434\u0438\u043d",
+            "nameEN": "Lebedyn",
+            "latitude": 50.3459,
+            "longitude": 34.2856,
+            "icon": ".\\public\\img\\Lebedyn.png"
+        },
+        {
+            "areasID": 16,
+            "nameUA": "\u0417\u0434\u043e\u043b\u0431\u0443\u043d\u0456\u0432",
+            "nameEN": "Zdolbuniv",
+            "latitude": 50.3034,
+            "longitude": 26.1535,
+            "icon": ".\\public\\img\\Zdolbuniv.png"
+        },
+        {
+            "areasID": 26,
+            "nameUA": "\u0421\u0430\u043a\u0438",
+            "nameEN": "Saky",
+            "latitude": 45.81,
+            "longitude": 33.3438,
+            "icon": ".\\public\\img\\Saky.png"
+        },
+        {
+            "areasID": 7,
+            "nameUA": "\u041e\u043b\u0435\u0448\u043a\u0438",
+            "nameEN": "Oleshky",
+            "latitude": 46.38,
+            "longitude": 32.35,
+            "icon": ".\\public\\img\\Oleshky.png"
+        },
+        {
+            "areasID": 4,
+            "nameUA": "\u0414\u0435\u0431\u0430\u043b\u044c\u0446\u0435\u0432\u0435",
+            "nameEN": "Debaltseve",
+            "latitude": 48.2,
+            "longitude": 38.24,
+            "icon": ".\\public\\img\\Debaltseve.gif"
+        },
+        {
+            "areasID": 12,
+            "nameUA": "\u0417\u043e\u043b\u043e\u0447\u0456\u0432",
+            "nameEN": "Zolochiv",
+            "latitude": 49.482697,
+            "longitude": 24.541102,
+            "icon": ".\\public\\img\\Zolochiv.PNG"
+        },
+        {
+            "areasID": 0,
+            "nameUA": "\u041a\u0430\u043d\u0456\u0432",
+            "nameEN": "Kaniv",
+            "latitude": 49.45,
+            "longitude": 31.28,
+            "icon": ".\\public\\img\\Kaniv.png"
+        },
+        {
+            "areasID": 21,
+            "nameUA": "\u0411\u0435\u0440\u0435\u0433\u043e\u0432\u0435",
+            "nameEN": "Berehove",
+            "latitude": 48.122,
+            "longitude": 22.385,
+            "icon": ".\\public\\img\\Berehove.png"
+        },
+        {
+            "areasID": 10,
+            "nameUA": "\u0417\u043d\u0430\u043c'\u044f\u043d\u043a\u0430",
+            "nameEN": "Znamianka",
+            "latitude": 48.4249,
+            "longitude": 32.4024,
+            "icon": ".\\public\\img\\Znamianka.png"
+        },
+        {
+            "areasID": 4,
+            "nameUA": "\u041b\u0438\u043c\u0430\u043d",
+            "nameEN": "Lyman",
+            "latitude": 48.597,
+            "longitude": 37.484,
+            "icon": ".\\public\\img\\Lyman.png"
+        },
+        {
+            "areasID": 4,
+            "nameUA": "\u0421\u0435\u043b\u0438\u0434\u043e\u0432\u0435",
+            "nameEN": "Selydove",
+            "latitude": 48.13,
+            "longitude": 37.3,
+            "icon": ".\\public\\img\\Selydove.png"
+        },
+        {
+            "areasID": 19,
+            "nameUA": "\u041a\u043e\u0437\u044f\u0442\u0438\u043d",
+            "nameEN": "Koziatyn",
+            "latitude": 49.43,
+            "longitude": 28.5,
+            "icon": ".\\public\\img\\Koziatyn.png"
+        },
+        {
+            "areasID": 11,
+            "nameUA": "\u041f\u043e\u043f\u0430\u0441\u043d\u0430",
+            "nameEN": "Popasna",
+            "latitude": 48.38,
+            "longitude": 38.2248,
+            "icon": ".\\public\\img\\Popasna.png"
+        },
+        {
+            "areasID": 11,
+            "nameUA": "\u041c\u043e\u043b\u043e\u0434\u043e\u0433\u0432\u0430\u0440\u0434\u0456\u0439\u0441\u044c\u043a",
+            "nameEN": "Molodohvardiysk",
+            "latitude": "",
+            "longitude": "",
+            "icon": ".\\public\\img\\Molodohvardiysk.png"
+        },
+        {
+            "areasID": 17,
+            "nameUA": "\u041a\u0440\u043e\u043b\u0435\u0432\u0435\u0446\u044c",
+            "nameEN": "Krolevets",
+            "latitude": 51.33,
+            "longitude": 33.23,
+            "icon": ".\\public\\img\\Krolevets.png"
+        },
+        {
+            "areasID": 6,
+            "nameUA": "\u041c\u0435\u0440\u0435\u0444\u0430",
+            "nameEN": "Merefa",
+            "latitude": "",
+            "longitude": "",
+            "icon": ".\\public\\img\\Merefa.png"
+        },
+        {
+            "areasID": 4,
+            "nameUA": "\u0412\u043e\u043b\u043d\u043e\u0432\u0430\u0445\u0430",
+            "nameEN": "Volnovakha",
+            "latitude": 47.3608,
+            "longitude": 37.2931,
+            "icon": ".\\public\\img\\Volnovakha.png"
+        },
+        {
+            "areasID": 11,
+            "nameUA": "\u041a\u0440\u0435\u043c\u0456\u043d\u043d\u0430",
+            "nameEN": "Kreminna",
+            "latitude": "",
+            "longitude": "",
+            "icon": ".\\public\\img\\Kreminna.png"
+        },
+        {
+            "areasID": 4,
+            "nameUA": "\u0414\u043e\u043a\u0443\u0447\u0430\u0454\u0432\u0441\u044c\u043a",
+            "nameEN": "Dokuchaievsk",
+            "latitude": 47.4507,
+            "longitude": 37.4042,
+            "icon": ".\\public\\img\\Dokuchaievsk.gif"
+        },
+        {
+            "areasID": 6,
+            "nameUA": "\u041b\u044e\u0431\u043e\u0442\u0438\u043d",
+            "nameEN": "Liubotyn",
+            "latitude": "",
+            "longitude": "",
+            "icon": ".\\public\\img\\Liubotyn.jpg"
+        },
+        {
+            "areasID": 26,
+            "nameUA": "\u0410\u0440\u043c\u044f\u043d\u0441\u044c\u043a",
+            "nameEN": "Armiansk",
+            "latitude": 46.653,
+            "longitude": 33.4126,
+            "icon": ".\\public\\img\\Armiansk.png"
+        },
+        {
+            "areasID": 3,
+            "nameUA": "\u0412\u0456\u043b\u044c\u043d\u043e\u0433\u0456\u0440\u0441\u044c\u043a",
+            "nameEN": "Vilnohirsk",
+            "latitude": 48.2841,
+            "longitude": 34.0141,
+            "icon": ".\\public\\img\\Vilnohirsk.png"
+        },
+        {
+            "areasID": 9,
+            "nameUA": "\u042f\u0433\u043e\u0442\u0438\u043d",
+            "nameEN": "Yahotyn",
+            "latitude": 50.1525,
+            "longitude": 31.4654,
+            "icon": ".\\public\\img\\Yahotyn.png"
+        },
+        {
+            "areasID": 11,
+            "nameUA": "\u0421\u0443\u0445\u043e\u0434\u0456\u043b\u044c\u0441\u044c\u043a",
+            "nameEN": "Sukhodilsk",
+            "latitude": "",
+            "longitude": "",
+            "icon": ".\\public\\img\\Sukhodilsk.gif"
+        },
+        {
+            "areasID": 17,
+            "nameUA": "\u0422\u0440\u043e\u0441\u0442\u044f\u043d\u0435\u0446\u044c",
+            "nameEN": "Trostianets",
+            "latitude": "",
+            "longitude": "",
+            "icon": ".\\public\\img\\Trostianets.png"
+        },
+        {
+            "areasID": 12,
+            "nameUA": "\u0411\u0440\u043e\u0434\u0438",
+            "nameEN": "Brody",
+            "latitude": 50.0459,
+            "longitude": 25.0852,
+            "icon": ".\\public\\img\\Brody.png"
+        },
+        {
+            "areasID": 8,
+            "nameUA": "\u041f\u043e\u043b\u043e\u043d\u043d\u0435",
+            "nameEN": "Polonne",
+            "latitude": 50.0712,
+            "longitude": 27.3028,
+            "icon": ".\\public\\img\\Polonne.png"
+        },
+        {
+            "areasID": 15,
+            "nameUA": "\u0413\u0430\u0434\u044f\u0447",
+            "nameEN": "Hadiach",
+            "latitude": 50.22,
+            "longitude": 34.0,
+            "icon": ".\\public\\img\\Hadiach.png"
+        },
+        {
+            "areasID": 6,
+            "nameUA": "\u041a\u0440\u0430\u0441\u043d\u043e\u0433\u0440\u0430\u0434",
+            "nameEN": "Krasnohrad",
+            "latitude": 49.22,
+            "longitude": 35.27,
+            "icon": ".\\public\\img\\Krasnohrad.png"
+        },
+        {
+            "areasID": null,
+            "nameUA": "\u041a\u0456\u043b\u0456\u044f",
+            "nameEN": "Kilia",
+            "latitude": 45.27,
+            "longitude": 29.14,
+            "icon": ".\\public\\img\\Kilia.png"
+        },
+        {
+            "areasID": 11,
+            "nameUA": "\u0421\u0442\u0430\u0440\u043e\u0431\u0456\u043b\u044c\u0441\u044c\u043a",
+            "nameEN": "Starobilsk",
+            "latitude": 49.1639,
+            "longitude": 38.5527,
+            "icon": ".\\public\\img\\Starobilsk.png"
+        },
+        {
+            "areasID": 19,
+            "nameUA": "\u041b\u0430\u0434\u0438\u0436\u0438\u043d",
+            "nameEN": "Ladyzhyn",
+            "latitude": 48.4,
+            "longitude": 29.15,
+            "icon": ".\\public\\img\\Ladyzhyn.png"
+        },
+        {
+            "areasID": 22,
+            "nameUA": "\u041f\u043e\u043b\u043e\u0433\u0438",
+            "nameEN": "Polohy",
+            "latitude": "",
+            "longitude": "",
+            "icon": ".\\public\\img\\Polohy.PNG"
+        },
+        {
+            "areasID": 4,
+            "nameUA": "\u0410\u043c\u0432\u0440\u043e\u0441\u0456\u0457\u0432\u043a\u0430",
+            "nameEN": "Amvrosiivka",
+            "latitude": 47.47,
+            "longitude": 38.29,
+            "icon": ".\\public\\img\\Amvrosiivka.png"
+        },
+        {
+            "areasID": 18,
+            "nameUA": "\u041a\u0440\u0435\u043c\u0435\u043d\u0435\u0446\u044c",
+            "nameEN": "Kremenets",
+            "latitude": 50.0711,
+            "longitude": 25.43,
+            "icon": ".\\public\\img\\Kremenets.png"
+        },
+        {
+            "areasID": 7,
+            "nameUA": "\u0413\u0435\u043d\u0456\u0447\u0435\u0441\u044c\u043a",
+            "nameEN": "Henichesk",
+            "latitude": 46.1,
+            "longitude": 34.48,
+            "icon": ".\\public\\img\\Henichesk.png"
+        },
+        {
+            "areasID": 12,
+            "nameUA": "\u0421\u043e\u043a\u0430\u043b\u044c",
+            "nameEN": "Sokal",
+            "latitude": 50.29,
+            "longitude": 24.17,
+            "icon": ".\\public\\img\\Sokal.png"
+        },
+        {
+            "areasID": 4,
+            "nameUA": "\u041a\u0443\u0440\u0430\u0445\u043e\u0432\u0435",
+            "nameEN": "Kurakhove",
+            "latitude": 47.59,
+            "longitude": 37.16,
+            "icon": ".\\public\\img\\Kurakhove.png"
+        },
+        {
+            "areasID": 22,
+            "nameUA": "\u0414\u043d\u0456\u043f\u0440\u043e\u0440\u0443\u0434\u043d\u0435",
+            "nameEN": "Dniprorudne",
+            "latitude": 47.2256,
+            "longitude": 34.5913,
+            "icon": ".\\public\\img\\Dniprorudne.png"
+        },
+        {
+            "areasID": 8,
+            "nameUA": "\u0412\u043e\u043b\u043e\u0447\u0438\u0441\u044c\u043a",
+            "nameEN": "Volochysk",
+            "latitude": 49.32,
+            "longitude": 26.1,
+            "icon": ".\\public\\img\\Volochysk.png"
+        },
+        {
+            "areasID": 5,
+            "nameUA": "\u041d\u0430\u0434\u0432\u0456\u0440\u043d\u0430",
+            "nameEN": "Nadvirna",
+            "latitude": 48.38,
+            "longitude": 24.35,
+            "icon": ".\\public\\img\\Nadvirna.png"
+        },
+        {
+            "areasID": 5,
+            "nameUA": "\u0414\u043e\u043b\u0438\u043d\u0430",
+            "nameEN": "Dolyna",
+            "latitude": 48.5814,
+            "longitude": 24.04,
+            "icon": ".\\public\\img\\Dolyna.png"
+        },
+        {
+            "areasID": 12,
+            "nameUA": "\u0421\u0442\u0435\u0431\u043d\u0438\u043a",
+            "nameEN": "Stebnyk",
+            "latitude": "",
+            "longitude": "",
+            "icon": ".\\public\\img\\Stebnyk.gif"
+        },
+        {
+            "areasID": 6,
+            "nameUA": "\u0412\u043e\u0432\u0447\u0430\u043d\u0441\u044c\u043a",
+            "nameEN": "Vovchansk",
+            "latitude": 50.181,
+            "longitude": 36.5648,
+            "icon": ".\\public\\img\\Vovchansk.png"
+        },
+        {
+            "areasID": 8,
+            "nameUA": "\u041a\u0440\u0430\u0441\u0438\u043b\u0456\u0432",
+            "nameEN": "Krasyliv",
+            "latitude": "",
+            "longitude": "",
+            "icon": ".\\public\\img\\Krasyliv.png"
+        },
+        {
+            "areasID": 3,
+            "nameUA": "\u041f'\u044f\u0442\u0438\u0445\u0430\u0442\u043a\u0438",
+            "nameEN": "Piatykhatky",
+            "latitude": 48.2449,
+            "longitude": 33.421,
+            "icon": ".\\public\\img\\Piatykhatky.png"
+        },
+        {
+            "areasID": null,
+            "nameUA": "\u0420\u0435\u043d\u0456",
+            "nameEN": "Reni",
+            "latitude": 45.2727,
+            "longitude": 28.1616,
+            "icon": ".\\public\\img\\Reni.png"
+        },
+        {
+            "areasID": 1,
+            "nameUA": "\u0411\u0430\u0445\u043c\u0430\u0447",
+            "nameEN": "Bakhmach",
+            "latitude": 51.1059,
+            "longitude": 32.4947,
+            "icon": ".\\public\\img\\Bakhmach.png"
+        },
+        {
+            "areasID": 6,
+            "nameUA": "\u0414\u0435\u0440\u0433\u0430\u0447\u0456",
+            "nameEN": "Derhachi",
+            "latitude": 50.07,
+            "longitude": 36.07,
+            "icon": ".\\public\\img\\Derhachi.png"
+        },
+        {
+            "areasID": 0,
+            "nameUA": "\u0412\u0430\u0442\u0443\u0442\u0456\u043d\u0435",
+            "nameEN": "Vatutine",
+            "latitude": 49.0043,
+            "longitude": 31.0417,
+            "icon": ".\\public\\img\\Vatutine.png"
+        },
+        {
+            "areasID": 19,
+            "nameUA": "\u041a\u0430\u043b\u0438\u043d\u0456\u0432\u043a\u0430",
+            "nameEN": "Kalynivka",
+            "latitude": 49.265,
+            "longitude": 28.3123,
+            "icon": ".\\public\\img\\Kalynivka.png"
+        },
+        {
+            "areasID": null,
+            "nameUA": "\u0411\u0430\u043b\u0442\u0430",
+            "nameEN": "Balta",
+            "latitude": 47.5624,
+            "longitude": 29.3719,
+            "icon": ".\\public\\img\\Balta.png"
+        },
+        {
+            "areasID": 0,
+            "nameUA": "\u0417\u0432\u0435\u043d\u0438\u0433\u043e\u0440\u043e\u0434\u043a\u0430",
+            "nameEN": "Zvenyhorodka",
+            "latitude": 49.411,
+            "longitude": 30.584,
+            "icon": ".\\public\\img\\Zvenyhorodka.png"
+        },
+        {
+            "areasID": 4,
+            "nameUA": "\u0417\u0443\u0433\u0440\u0435\u0441",
+            "nameEN": "Zuhres",
+            "latitude": 48.01,
+            "longitude": 38.16,
+            "icon": ".\\public\\img\\Zuhres.png"
+        },
+        {
+            "areasID": 7,
+            "nameUA": "\u0421\u043a\u0430\u0434\u043e\u0432\u0441\u044c\u043a",
+            "nameEN": "Skadovsk",
+            "latitude": 46.7,
+            "longitude": 32.55,
+            "icon": ".\\public\\img\\Skadovsk.png"
+        },
+        {
+            "areasID": 11,
+            "nameUA": "\u0421\u0432\u0430\u0442\u043e\u0432\u0435",
+            "nameEN": "Svatove",
+            "latitude": "",
+            "longitude": "",
+            "icon": ".\\public\\img\\Svatove.png"
+        },
+        {
+            "areasID": 0,
+            "nameUA": "\u0428\u043f\u043e\u043b\u0430",
+            "nameEN": "Shpola",
+            "latitude": 48.5959,
+            "longitude": 31.2332,
+            "icon": ".\\public\\img\\Shpola.PNG"
+        },
+        {
+            "areasID": 10,
+            "nameUA": "\u041d\u043e\u0432\u043e\u0443\u043a\u0440\u0430\u0457\u043d\u043a\u0430",
+            "nameEN": "Novoukrainka",
+            "latitude": "",
+            "longitude": "",
+            "icon": ".\\public\\img\\Novoukrainka.png"
+        },
+        {
+            "areasID": 0,
+            "nameUA": "\u041a\u043e\u0440\u0441\u0443\u043d\u044c-\u0428\u0435\u0432\u0447\u0435\u043d\u043a\u0456\u0432\u0441\u044c\u043a\u0438\u0439",
+            "nameEN": "Korsun-Shevchenkivskyi",
+            "latitude": 49.29,
+            "longitude": 31.17,
+            "icon": ".\\public\\img\\Korsun-Shevchenkivskyi.png"
+        },
+        {
+            "areasID": 11,
+            "nameUA": "\u041b\u0443\u0442\u0443\u0433\u0438\u043d\u0435",
+            "nameEN": "Lutuhyne",
+            "latitude": "",
+            "longitude": "",
+            "icon": ".\\public\\img\\Lutuhyne.png"
+        },
+        {
+            "areasID": 26,
+            "nameUA": "\u0411\u0456\u043b\u043e\u0433\u0456\u0440\u0441\u044c\u043a",
+            "nameEN": "Bilohirsk",
+            "latitude": 45.316,
+            "longitude": 34.368,
+            "icon": ".\\public\\img\\Bilohirsk.png"
+        },
+        {
+            "areasID": 10,
+            "nameUA": "\u0414\u043e\u043b\u0438\u043d\u0441\u044c\u043a\u0430",
+            "nameEN": "Dolynska",
+            "latitude": "",
+            "longitude": "",
+            "icon": ".\\public\\img\\Dolynska.png"
+        },
+        {
+            "areasID": 8,
+            "nameUA": "\u0406\u0437\u044f\u0441\u043b\u0430\u0432",
+            "nameEN": "Iziaslav",
+            "latitude": 50.07,
+            "longitude": 26.48,
+            "icon": ".\\public\\img\\Iziaslav.png"
+        },
+        {
+            "areasID": 17,
+            "nameUA": "\u0411\u0456\u043b\u043e\u043f\u0456\u043b\u043b\u044f",
+            "nameEN": "Bilopillia",
+            "latitude": 51.0846,
+            "longitude": 34.1819,
+            "icon": ".\\public\\img\\Bilopillia.png"
+        },
+        {
+            "areasID": 6,
+            "nameUA": "\u0411\u043e\u0433\u043e\u0434\u0443\u0445\u0456\u0432",
+            "nameEN": "Bohodukhiv",
+            "latitude": "",
+            "longitude": "",
+            "icon": ".\\public\\img\\Bohodukhiv.png"
+        },
+        {
+            "areasID": 9,
+            "nameUA": "\u0421\u043a\u0432\u0438\u0440\u0430",
+            "nameEN": "Skvyra",
+            "latitude": 49.43,
+            "longitude": 29.4,
+            "icon": ".\\public\\img\\Skvyra.png"
+        },
+        {
+            "areasID": 15,
+            "nameUA": "\u041a\u0430\u0440\u043b\u0456\u0432\u043a\u0430",
+            "nameEN": "Karlivka",
+            "latitude": "",
+            "longitude": "",
+            "icon": ".\\public\\img\\Karlivka.png"
+        },
+        {
+            "areasID": 22,
+            "nameUA": "\u041e\u0440\u0456\u0445\u0456\u0432",
+            "nameEN": "Orikhiv",
+            "latitude": 47.341,
+            "longitude": 35.464,
+            "icon": ".\\public\\img\\Orikhiv.PNG"
+        },
+        {
+            "areasID": 4,
+            "nameUA": "\u0411\u0456\u043b\u043e\u0437\u0435\u0440\u0441\u044c\u043a\u0435",
+            "nameEN": "Bilozerske",
+            "latitude": 48.52,
+            "longitude": 37.08,
+            "icon": ".\\public\\img\\Bilozerske.png"
+        },
+        {
+            "areasID": 11,
+            "nameUA": "\u0417\u043e\u043b\u043e\u0442\u0435",
+            "nameEN": "Zolote",
+            "latitude": 48.4134,
+            "longitude": 38.311,
+            "icon": ".\\public\\img\\Zolote.png"
+        },
+        {
+            "areasID": 4,
+            "nameUA": "\u042e\u043d\u043e\u043a\u043e\u043c\u0443\u043d\u0430\u0440\u0456\u0432\u0441\u044c\u043a",
+            "nameEN": "Yunokomunarivsk",
+            "latitude": "",
+            "longitude": "",
+            "icon": null
+        },
+        {
+            "areasID": 3,
+            "nameUA": "\u041f\u0456\u0434\u0433\u043e\u0440\u043e\u0434\u043d\u0435",
+            "nameEN": "Pidhorodne",
+            "latitude": 48.343,
+            "longitude": 35.0608,
+            "icon": ".\\public\\img\\Pidhorodne.png"
+        },
+        {
+            "areasID": null,
+            "nameUA": "\u0420\u043e\u0437\u0434\u0456\u043b\u044c\u043d\u0430",
+            "nameEN": "Rozdilna",
+            "latitude": 46.5055,
+            "longitude": 30.445,
+            "icon": ".\\public\\img\\Rozdilna.png"
+        },
+        {
+            "areasID": 8,
+            "nameUA": "\u0413\u043e\u0440\u043e\u0434\u043e\u043a",
+            "nameEN": "Horodok",
+            "latitude": "",
+            "longitude": "",
+            "icon": ".\\public\\img\\Horodok.png"
+        },
+        {
+            "areasID": 11,
+            "nameUA": "\u0427\u0435\u0440\u0432\u043e\u043d\u043e\u043f\u0430\u0440\u0442\u0438\u0437\u0430\u043d\u0441\u044c\u043a",
+            "nameEN": "Chervonopartyzansk",
+            "latitude": 48.05,
+            "longitude": 39.47,
+            "icon": null
+        },
+        {
+            "areasID": 4,
+            "nameUA": "\u0406\u043b\u043e\u0432\u0430\u0439\u0441\u044c\u043a",
+            "nameEN": "Ilovaisk",
+            "latitude": "",
+            "longitude": "",
+            "icon": ".\\public\\img\\Ilovaisk.png"
+        },
+        {
+            "areasID": 18,
+            "nameUA": "\u0411\u0435\u0440\u0435\u0436\u0430\u043d\u0438",
+            "nameEN": "Berezhany",
+            "latitude": 49.2645,
+            "longitude": 24.561,
+            "icon": ".\\public\\img\\Berezhany.png"
+        },
+        {
+            "areasID": 4,
+            "nameUA": "\u041d\u043e\u0432\u043e\u0433\u0440\u043e\u0434\u0456\u0432\u043a\u0430",
+            "nameEN": "Novohrodivka",
+            "latitude": 48.12,
+            "longitude": 37.2022,
+            "icon": ".\\public\\img\\Novohrodivka.png"
+        },
+        {
+            "areasID": 4,
+            "nameUA": "\u0412\u0443\u0433\u043b\u0435\u0434\u0430\u0440",
+            "nameEN": "Vuhledar",
+            "latitude": 47.4645,
+            "longitude": 37.1454,
+            "icon": ".\\public\\img\\Vuhledar.png"
+        },
+        {
+            "areasID": 9,
+            "nameUA": "\u0411\u0435\u0440\u0435\u0437\u0430\u043d\u044c",
+            "nameEN": "Berezan",
+            "latitude": 50.1911,
+            "longitude": 31.2812,
+            "icon": ".\\public\\img\\Berezan.png"
+        },
+        {
+            "areasID": 17,
+            "nameUA": "\u041f\u0443\u0442\u0438\u0432\u043b\u044c",
+            "nameEN": "Putyvl",
+            "latitude": 51.19,
+            "longitude": 33.52,
+            "icon": ".\\public\\img\\Putyvl.png"
+        },
+        {
+            "areasID": null,
+            "nameUA": "\u0411\u043e\u043b\u0433\u0440\u0430\u0434",
+            "nameEN": "Bolhrad",
+            "latitude": 45.402,
+            "longitude": 28.3646,
+            "icon": ".\\public\\img\\Bolhrad.png"
+        },
+        {
+            "areasID": 19,
+            "nameUA": "\u0411\u0430\u0440",
+            "nameEN": "Bar",
+            "latitude": 49.043,
+            "longitude": 27.4034,
+            "icon": ".\\public\\img\\Bar.png"
+        },
+        {
+            "areasID": 21,
+            "nameUA": "\u0421\u0432\u0430\u043b\u044f\u0432\u0430",
+            "nameEN": "Svaliava",
+            "latitude": 48.325,
+            "longitude": 22.591,
+            "icon": ".\\public\\img\\Svaliava.png"
+        },
+        {
+            "areasID": 9,
+            "nameUA": "\u0411\u043e\u0433\u0443\u0441\u043b\u0430\u0432",
+            "nameEN": "Bohuslav",
+            "latitude": 49.3248,
+            "longitude": 30.5222,
+            "icon": ".\\public\\img\\Bohuslav.png"
+        },
+        {
+            "areasID": 22,
+            "nameUA": "\u0413\u0443\u043b\u044f\u0439\u043f\u043e\u043b\u0435",
+            "nameEN": "Huliaipole",
+            "latitude": 47.39,
+            "longitude": 36.16,
+            "icon": ".\\public\\img\\Huliaipole.png"
+        },
+        {
+            "areasID": 6,
+            "nameUA": "\u0417\u043c\u0456\u0457\u0432",
+            "nameEN": "Zmiiv",
+            "latitude": 49.414,
+            "longitude": 36.2133,
+            "icon": ".\\public\\img\\Zmiiv.png"
+        },
+        {
+            "areasID": 23,
+            "nameUA": "\u041e\u0432\u0440\u0443\u0447",
+            "nameEN": "Ovruch",
+            "latitude": 51.1928,
+            "longitude": 28.4829,
+            "icon": ".\\public\\img\\Ovruch.png"
+        },
+        {
+            "areasID": 3,
+            "nameUA": "\u0412\u0435\u0440\u0445\u043d\u044c\u043e\u0434\u043d\u0456\u043f\u0440\u043e\u0432\u0441\u044c\u043a",
+            "nameEN": "Verkhniodniprovsk",
+            "latitude": 48.3922,
+            "longitude": 34.1942,
+            "icon": ".\\public\\img\\Verkhniodniprovsk.png"
+        },
+        {
+            "areasID": 13,
+            "nameUA": "\u041e\u0447\u0430\u043a\u0456\u0432",
+            "nameEN": "Ochakiv",
+            "latitude": 46.3707,
+            "longitude": 31.3221,
+            "icon": ".\\public\\img\\Ochakiv.png"
+        },
+        {
+            "areasID": 4,
+            "nameUA": "\u041a\u0440\u0430\u0441\u043d\u043e\u0433\u043e\u0440\u0456\u0432\u043a\u0430",
+            "nameEN": "Krasnohorivka",
+            "latitude": 48.024,
+            "longitude": 37.3046,
+            "icon": ".\\public\\img\\Krasnohorivka.gif"
+        },
+        {
+            "areasID": 20,
+            "nameUA": "\u041a\u0456\u0432\u0435\u0440\u0446\u0456",
+            "nameEN": "Kivertsi",
+            "latitude": 50.4959,
+            "longitude": 25.2741,
+            "icon": ".\\public\\img\\Kivertsi.png"
+        },
+        {
+            "areasID": 15,
+            "nameUA": "\u041f\u0438\u0440\u044f\u0442\u0438\u043d",
+            "nameEN": "Pyriatyn",
+            "latitude": 50.15,
+            "longitude": 32.32,
+            "icon": ".\\public\\img\\Pyriatyn.png"
+        },
+        {
+            "areasID": 4,
+            "nameUA": "\u041c\u0438\u043a\u043e\u043b\u0430\u0457\u0432\u043a\u0430",
+            "nameEN": "Mykolaivka",
+            "latitude": "",
+            "longitude": "",
+            "icon": ".\\public\\img\\Mykolaivka.png"
+        },
+        {
+            "areasID": 4,
+            "nameUA": "\u0427\u0430\u0441\u0456\u0432 \u042f\u0440",
+            "nameEN": "Chasiv Yar",
+            "latitude": 48.351839,
+            "longitude": 37.50918,
+            "icon": ".\\public\\img\\Chasiv Yar.png"
+        },
+        {
+            "areasID": 22,
+            "nameUA": "\u0412\u0456\u043b\u044c\u043d\u044f\u043d\u0441\u044c\u043a",
+            "nameEN": "Vilniansk",
+            "latitude": "",
+            "longitude": "",
+            "icon": ".\\public\\img\\Vilniansk.PNG"
+        },
+        {
+            "areasID": 8,
+            "nameUA": "\u0414\u0443\u043d\u0430\u0457\u0432\u0446\u0456",
+            "nameEN": "Dunaivtsi",
+            "latitude": 48.5322,
+            "longitude": 26.5125,
+            "icon": ".\\public\\img\\Dunaivtsi.png"
+        },
+        {
+            "areasID": 3,
+            "nameUA": "\u0410\u043f\u043e\u0441\u0442\u043e\u043b\u043e\u0432\u0435",
+            "nameEN": "Apostolove",
+            "latitude": 47.3934,
+            "longitude": 33.43,
+            "icon": ".\\public\\img\\Apostolove.gif"
+        },
+        {
+            "areasID": 0,
+            "nameUA": "\u0422\u0430\u043b\u044c\u043d\u0435",
+            "nameEN": "Talne",
+            "latitude": 48.5319,
+            "longitude": 30.4215,
+            "icon": ".\\public\\img\\Talne.jpg"
+        },
+        {
+            "areasID": null,
+            "nameUA": "\u0410\u0440\u0446\u0438\u0437",
+            "nameEN": "Artsyz",
+            "latitude": 45.594,
+            "longitude": 29.2556,
+            "icon": ".\\public\\img\\Artsyz.png"
+        },
+        {
+            "areasID": 13,
+            "nameUA": "\u041d\u043e\u0432\u0438\u0439 \u0411\u0443\u0433",
+            "nameEN": "Novyi Buh",
+            "latitude": 47.41,
+            "longitude": 32.3,
+            "icon": ".\\public\\img\\Novyi Buh.png"
+        },
+        {
+            "areasID": 19,
+            "nameUA": "\u0422\u0443\u043b\u044c\u0447\u0438\u043d",
+            "nameEN": "Tulchyn",
+            "latitude": 48.4028,
+            "longitude": 28.5059,
+            "icon": ".\\public\\img\\Tulchyn.png"
+        },
+        {
+            "areasID": 10,
+            "nameUA": "\u0413\u0430\u0439\u0432\u043e\u0440\u043e\u043d",
+            "nameEN": "Haivoron",
+            "latitude": "",
+            "longitude": "",
+            "icon": ".\\public\\img\\Haivoron.png"
+        },
+        {
+            "areasID": 12,
+            "nameUA": "\u0413\u043e\u0440\u043e\u0434\u043e\u043a",
+            "nameEN": "Horodok",
+            "latitude": 49.47,
+            "longitude": 23.384,
+            "icon": ".\\public\\img\\Horodok.png"
+        },
+        {
+            "areasID": 7,
+            "nameUA": "\u0413\u043e\u043b\u0430 \u041f\u0440\u0438\u0441\u0442\u0430\u043d\u044c",
+            "nameEN": "Hola Prystan",
+            "latitude": 46.31,
+            "longitude": 32.31,
+            "icon": ".\\public\\img\\Hola Prystan.png"
+        },
+        {
+            "areasID": 1,
+            "nameUA": "\u041d\u043e\u0441\u0456\u0432\u043a\u0430",
+            "nameEN": "Nosivka",
+            "latitude": 50.5548,
+            "longitude": 31.345,
+            "icon": ".\\public\\img\\Nosivka.gif"
+        },
+        {
+            "areasID": 0,
+            "nameUA": "\u0416\u0430\u0448\u043a\u0456\u0432",
+            "nameEN": "Zhashkiv",
+            "latitude": 49.1409,
+            "longitude": 30.064,
+            "icon": ".\\public\\img\\Zhashkiv.png"
+        },
+        {
+            "areasID": 0,
+            "nameUA": "\u0413\u043e\u0440\u043e\u0434\u0438\u0449\u0435",
+            "nameEN": "Horodysche",
+            "latitude": 49.1733,
+            "longitude": 31.2729,
+            "icon": ".\\public\\img\\Horodysche.jpg"
+        },
+        {
+            "areasID": 22,
+            "nameUA": "\u0412\u0430\u0441\u0438\u043b\u0456\u0432\u043a\u0430",
+            "nameEN": "Vasylivka",
+            "latitude": 47.263,
+            "longitude": 35.1635,
+            "icon": ".\\public\\img\\Vasylivka.png"
+        },
+        {
+            "areasID": 22,
+            "nameUA": "\u041a\u0430\u043c'\u044f\u043d\u043a\u0430-\u0414\u043d\u0456\u043f\u0440\u043e\u0432\u0441\u044c\u043a\u0430",
+            "nameEN": "Kamianka-Dniprovska",
+            "latitude": 47.2746,
+            "longitude": 34.2422,
+            "icon": ".\\public\\img\\Kamianka-Dniprovska.png"
+        },
+        {
+            "areasID": 11,
+            "nameUA": "\u041f\u0435\u0442\u0440\u043e\u0432\u0441\u044c\u043a\u0435",
+            "nameEN": "Petrovske",
+            "latitude": "",
+            "longitude": "",
+            "icon": null
+        },
+        {
+            "areasID": 7,
+            "nameUA": "\u0411\u0435\u0440\u0438\u0441\u043b\u0430\u0432",
+            "nameEN": "Beryslav",
+            "latitude": 46.5,
+            "longitude": 33.25,
+            "icon": ".\\public\\img\\Beryslav.png"
+        },
+        {
+            "areasID": 13,
+            "nameUA": "\u0421\u043d\u0456\u0433\u0443\u0440\u0456\u0432\u043a\u0430",
+            "nameEN": "Snihurivka",
+            "latitude": "",
+            "longitude": "",
+            "icon": ".\\public\\img\\Snihurivka.png"
+        },
+        {
+            "areasID": 23,
+            "nameUA": "\u0420\u0430\u0434\u043e\u043c\u0438\u0448\u043b\u044c",
+            "nameEN": "Radomyshl",
+            "latitude": 50.2941,
+            "longitude": 29.14,
+            "icon": ".\\public\\img\\Radomyshl.png"
+        },
+        {
+            "areasID": 5,
+            "nameUA": "\u0411\u0443\u0440\u0448\u0442\u0438\u043d",
+            "nameEN": "Burshtyn",
+            "latitude": 49.153,
+            "longitude": 24.374,
+            "icon": ".\\public\\img\\Burshtyn.png"
+        },
+        {
+            "areasID": 21,
+            "nameUA": "\u0420\u0430\u0445\u0456\u0432",
+            "nameEN": "Rakhiv",
+            "latitude": 48.03,
+            "longitude": 24.12,
+            "icon": ".\\public\\img\\Rakhiv.png"
+        },
+        {
+            "areasID": 1,
+            "nameUA": "\u041d\u043e\u0432\u0433\u043e\u0440\u043e\u0434-\u0421\u0456\u0432\u0435\u0440\u0441\u044c\u043a\u0438\u0439",
+            "nameEN": "Novhorod-Siverskyi",
+            "latitude": 51.59,
+            "longitude": 33.16,
+            "icon": ".\\public\\img\\Novhorod-Siverskyi.png"
+        },
+        {
+            "areasID": 0,
+            "nameUA": "\u041a\u0430\u043c'\u044f\u043d\u043a\u0430",
+            "nameEN": "Kamianka",
+            "latitude": 49.02,
+            "longitude": 32.06,
+            "icon": ".\\public\\img\\Kamianka.png"
+        },
+        {
+            "areasID": 9,
+            "nameUA": "\u0422\u0435\u0442\u0456\u0457\u0432",
+            "nameEN": "Tetiiv",
+            "latitude": 49.2215,
+            "longitude": 29.4124,
+            "icon": ".\\public\\img\\Tetiiv.png"
+        },
+        {
+            "areasID": 12,
+            "nameUA": "\u041c\u0438\u043a\u043e\u043b\u0430\u0457\u0432",
+            "nameEN": "Mykolaiv",
+            "latitude": 49.3129,
+            "longitude": 23.5844,
+            "icon": ".\\public\\img\\Mykolaiv.png"
+        },
+        {
+            "areasID": 16,
+            "nameUA": "\u041e\u0441\u0442\u0440\u043e\u0433",
+            "nameEN": "Ostroh",
+            "latitude": 50.2,
+            "longitude": 26.31,
+            "icon": ".\\public\\img\\Ostroh.png"
+        },
+        {
+            "areasID": 3,
+            "nameUA": "\u0417\u0435\u043b\u0435\u043d\u043e\u0434\u043e\u043b\u044c\u0441\u044c\u043a",
+            "nameEN": "Zelenodolsk",
+            "latitude": 47.3357,
+            "longitude": 33.3847,
+            "icon": ".\\public\\img\\Zelenodolsk.jpg"
+        },
+        {
+            "areasID": 11,
+            "nameUA": "\u0412\u0430\u0445\u0440\u0443\u0448\u0435\u0432\u0435",
+            "nameEN": "Vakhrusheve",
+            "latitude": "",
+            "longitude": "",
+            "icon": null
+        },
+        {
+            "areasID": 15,
+            "nameUA": "\u0425\u043e\u0440\u043e\u043b",
+            "nameEN": "Khorol",
+            "latitude": 49.46,
+            "longitude": 33.16,
+            "icon": ".\\public\\img\\Khorol.png"
+        },
+        {
+            "areasID": 2,
+            "nameUA": "\u0421\u0442\u043e\u0440\u043e\u0436\u0438\u043d\u0435\u0446\u044c",
+            "nameEN": "Storozhynets",
+            "latitude": 48.0935,
+            "longitude": 25.4254,
+            "icon": ".\\public\\img\\Storozhynets.png"
+        },
+        {
+            "areasID": 26,
+            "nameUA": "\u0421\u0443\u0434\u0430\u043a",
+            "nameEN": "Sudak",
+            "latitude": 44.515,
+            "longitude": 34.5821,
+            "icon": ".\\public\\img\\Sudak.png"
+        },
+        {
+            "areasID": 4,
+            "nameUA": "\u0421\u0456\u0432\u0435\u0440\u0441\u044c\u043a",
+            "nameEN": "Siversk",
+            "latitude": 48.5147,
+            "longitude": 38.55,
+            "icon": ".\\public\\img\\Siversk.png"
+        },
+        {
+            "areasID": 1,
+            "nameUA": "\u041a\u043e\u0440\u044e\u043a\u0456\u0432\u043a\u0430",
+            "nameEN": "Koriukivka",
+            "latitude": 51.47,
+            "longitude": 32.15,
+            "icon": ".\\public\\img\\Koriukivka.png"
+        },
+        {
+            "areasID": null,
+            "nameUA": "\u0411\u0456\u043b\u044f\u0457\u0432\u043a\u0430",
+            "nameEN": "Biliaivka",
+            "latitude": 46.28579,
+            "longitude": 30.1205,
+            "icon": ".\\public\\img\\Biliaivka.png"
+        },
+        {
+            "areasID": 4,
+            "nameUA": "\u0413\u0456\u0440\u043d\u0438\u043a",
+            "nameEN": "Hirnyk",
+            "latitude": 48.03,
+            "longitude": 37.22,
+            "icon": ".\\public\\img\\Hirnyk.gif"
+        },
+        {
+            "areasID": 9,
+            "nameUA": "\u0423\u043a\u0440\u0430\u0457\u043d\u043a\u0430",
+            "nameEN": "Ukrainka",
+            "latitude": 50.91111,
+            "longitude": 30.443657,
+            "icon": ".\\public\\img\\Ukrainka.png"
+        },
+        {
+            "areasID": 13,
+            "nameUA": "\u041d\u043e\u0432\u0430 \u041e\u0434\u0435\u0441\u0430",
+            "nameEN": "Nova Odesa",
+            "latitude": "",
+            "longitude": "",
+            "icon": ".\\public\\img\\Nova Odesa.png"
+        },
+        {
+            "areasID": 1,
+            "nameUA": "\u0413\u043e\u0440\u043e\u0434\u043d\u044f",
+            "nameEN": "Horodnia",
+            "latitude": 51.5335,
+            "longitude": 31.3541,
+            "icon": ".\\public\\img\\Horodnia.gif"
+        },
+        {
+            "areasID": 11,
+            "nameUA": "\u0429\u0430\u0441\u0442\u044f",
+            "nameEN": "Schastia",
+            "latitude": "",
+            "longitude": "",
+            "icon": ".\\public\\img\\Schastia.png"
+        },
+        {
+            "areasID": 9,
+            "nameUA": "\u041a\u0430\u0433\u0430\u0440\u043b\u0438\u043a",
+            "nameEN": "Kaharlyk",
+            "latitude": 49.518,
+            "longitude": 30.4833,
+            "icon": ".\\public\\img\\Kaharlyk.png"
+        },
+        {
+            "areasID": 4,
+            "nameUA": "\u0416\u0434\u0430\u043d\u0456\u0432\u043a\u0430",
+            "nameEN": "Zhdanivka",
+            "latitude": 48.815,
+            "longitude": 38.1539,
+            "icon": ".\\public\\img\\Zhdanivka.png"
+        },
+        {
+            "areasID": 16,
+            "nameUA": "\u0411\u0435\u0440\u0435\u0437\u043d\u0435",
+            "nameEN": "Berezne",
+            "latitude": 50.5948,
+            "longitude": 26.4422,
+            "icon": ".\\public\\img\\Berezne.png"
+        },
+        {
+            "areasID": 18,
+            "nameUA": "\u0422\u0435\u0440\u0435\u0431\u043e\u0432\u043b\u044f",
+            "nameEN": "Terebovlia",
+            "latitude": 49.18,
+            "longitude": 25.4125,
+            "icon": ".\\public\\img\\Terebovlia.png"
+        },
+        {
+            "areasID": 12,
+            "nameUA": "\u0412\u0438\u043d\u043d\u0438\u043a\u0438",
+            "nameEN": "Vynnyky",
+            "latitude": 49.4856,
+            "longitude": 24.0747,
+            "icon": ".\\public\\img\\Vynnyky.png"
+        },
+        {
+            "areasID": 20,
+            "nameUA": "\u0420\u043e\u0436\u0438\u0449\u0435",
+            "nameEN": "Rozhysche",
+            "latitude": 50.5447,
+            "longitude": 25.1612,
+            "icon": ".\\public\\img\\Rozhysche.gif"
+        },
+        {
+            "areasID": 12,
+            "nameUA": "\u042f\u0432\u043e\u0440\u0456\u0432",
+            "nameEN": "Yavoriv",
+            "latitude": 49.5649,
+            "longitude": 23.2335,
+            "icon": ".\\public\\img\\Yavoriv.png"
+        },
+        {
+            "areasID": 12,
+            "nameUA": "\u0416\u043e\u0432\u043a\u0432\u0430",
+            "nameEN": "Zhovkva",
+            "latitude": 50.4,
+            "longitude": 23.58,
+            "icon": ".\\public\\img\\Zhovkva.png"
+        },
+        {
+            "areasID": 9,
+            "nameUA": "\u0422\u0430\u0440\u0430\u0449\u0430",
+            "nameEN": "Tarascha",
+            "latitude": 49.33,
+            "longitude": 30.3,
+            "icon": ".\\public\\img\\Tarascha.png"
+        },
+        {
+            "areasID": 9,
+            "nameUA": "\u041c\u0438\u0440\u043e\u043d\u0456\u0432\u043a\u0430",
+            "nameEN": "Myronivka",
+            "latitude": 49.39,
+            "longitude": 30.59,
+            "icon": ".\\public\\img\\Myronivka.png"
+        },
+        {
+            "areasID": 19,
+            "nameUA": "\u0411\u0435\u0440\u0448\u0430\u0434\u044c",
+            "nameEN": "Bershad",
+            "latitude": 48.2222,
+            "longitude": 29.3157,
+            "icon": ".\\public\\img\\Bershad.png"
+        },
+        {
+            "areasID": 4,
+            "nameUA": "\u0423\u043a\u0440\u0430\u0457\u043d\u0441\u044c\u043a",
+            "nameEN": "Ukrainsk",
+            "latitude": "",
+            "longitude": "",
+            "icon": ".\\public\\img\\Ukrainsk.png"
+        },
+        {
+            "areasID": 18,
+            "nameUA": "\u0417\u0431\u0430\u0440\u0430\u0436",
+            "nameEN": "Zbarazh",
+            "latitude": 49.4,
+            "longitude": 25.464,
+            "icon": ".\\public\\img\\Zbarazh.png"
+        },
+        {
+            "areasID": 10,
+            "nameUA": "\u041d\u043e\u0432\u043e\u043c\u0438\u0440\u0433\u043e\u0440\u043e\u0434",
+            "nameEN": "Novomyrhorod",
+            "latitude": 48.47,
+            "longitude": 31.39,
+            "icon": ".\\public\\img\\Novomyrhorod.png"
+        },
+        {
+            "areasID": 9,
+            "nameUA": "\u0423\u0437\u0438\u043d",
+            "nameEN": "Uzyn",
+            "latitude": 49.4927,
+            "longitude": 30.2633,
+            "icon": ".\\public\\img\\Uzyn.png"
+        },
+        {
+            "areasID": 4,
+            "nameUA": "\u0421\u0432\u0456\u0442\u043b\u043e\u0434\u0430\u0440\u0441\u044c\u043a",
+            "nameEN": "Svitlodarsk",
+            "latitude": "",
+            "longitude": "",
+            "icon": ".\\public\\img\\Svitlodarsk.gif"
+        },
+        {
+            "areasID": 4,
+            "nameUA": "\u0421\u043e\u043b\u0435\u0434\u0430\u0440",
+            "nameEN": "Soledar",
+            "latitude": "",
+            "longitude": "",
+            "icon": ".\\public\\img\\Soledar.png"
+        },
+        {
+            "areasID": 13,
+            "nameUA": "\u0411\u0430\u0448\u0442\u0430\u043d\u043a\u0430",
+            "nameEN": "Bashtanka",
+            "latitude": "",
+            "longitude": "",
+            "icon": ".\\public\\img\\Bashtanka.png"
+        },
+        {
+            "areasID": 10,
+            "nameUA": "\u041c\u0430\u043b\u0430 \u0412\u0438\u0441\u043a\u0430",
+            "nameEN": "Mala Vyska",
+            "latitude": 48.39,
+            "longitude": 31.38,
+            "icon": ".\\public\\img\\Mala Vyska.png"
+        },
+        {
+            "areasID": 11,
+            "nameUA": "\u0422\u0435\u043f\u043b\u043e\u0433\u0456\u0440\u0441\u044c\u043a",
+            "nameEN": "Teplohirsk",
+            "latitude": "",
+            "longitude": "",
+            "icon": null
+        },
+        {
+            "areasID": 6,
+            "nameUA": "\u0411\u0430\u0440\u0432\u0456\u043d\u043a\u043e\u0432\u0435",
+            "nameEN": "Barvinkove",
+            "latitude": "",
+            "longitude": "",
+            "icon": ".\\public\\img\\Barvinkove.png"
+        },
+        {
+            "areasID": 22,
+            "nameUA": "\u041f\u0440\u0438\u043c\u043e\u0440\u0441\u044c\u043a",
+            "nameEN": "Prymorsk",
+            "latitude": "",
+            "longitude": "",
+            "icon": ".\\public\\img\\Prymorsk.png"
+        },
+        {
+            "areasID": 1,
+            "nameUA": "\u041c\u0435\u043d\u0430",
+            "nameEN": "Mena",
+            "latitude": 51.31,
+            "longitude": 32.13,
+            "icon": ".\\public\\img\\Mena.png"
+        },
+        {
+            "areasID": 15,
+            "nameUA": "\u0413\u043b\u043e\u0431\u0438\u043d\u0435",
+            "nameEN": "Hlobyne",
+            "latitude": 49.2325,
+            "longitude": 33.1501,
+            "icon": ".\\public\\img\\Hlobyne.png"
+        },
+        {
+            "areasID": 19,
+            "nameUA": "\u0413\u043d\u0456\u0432\u0430\u043d\u044c",
+            "nameEN": "Hnivan",
+            "latitude": 49.528,
+            "longitude": 28.2055,
+            "icon": ".\\public\\img\\Hnivan.png"
+        },
+        {
+            "areasID": 4,
+            "nameUA": "\u041a\u043e\u043c\u0441\u043e\u043c\u043e\u043b\u044c\u0441\u044c\u043a\u0435",
+            "nameEN": "Komsomolske",
+            "latitude": "",
+            "longitude": "",
+            "icon": null
+        },
+        {
+            "areasID": 1,
+            "nameUA": "\u0406\u0447\u043d\u044f",
+            "nameEN": "Ichnia",
+            "latitude": 50.51,
+            "longitude": 32.24,
+            "icon": ".\\public\\img\\Ichnia.png"
+        },
+        {
+            "areasID": 4,
+            "nameUA": "\u041d\u043e\u0432\u043e\u0430\u0437\u043e\u0432\u0441\u044c\u043a",
+            "nameEN": "Novoazovsk",
+            "latitude": 47.653,
+            "longitude": 38.448,
+            "icon": ".\\public\\img\\Novoazovsk.png"
+        },
+        {
+            "areasID": 23,
+            "nameUA": "\u0411\u0430\u0440\u0430\u043d\u0456\u0432\u043a\u0430",
+            "nameEN": "Baranivka",
+            "latitude": "",
+            "longitude": "",
+            "icon": ".\\public\\img\\Baranivka.png"
+        },
+        {
+            "areasID": 18,
+            "nameUA": "\u0411\u0443\u0447\u0430\u0447",
+            "nameEN": "Buchach",
+            "latitude": 49.05,
+            "longitude": 25.24,
+            "icon": ".\\public\\img\\Buchach.PNG"
+        },
+        {
+            "areasID": 15,
+            "nameUA": "\u041b\u043e\u0445\u0432\u0438\u0446\u044f",
+            "nameEN": "Lokhvytsia",
+            "latitude": 50.2158524,
+            "longitude": 33.1633596,
+            "icon": ".\\public\\img\\Lokhvytsia.png"
+        },
+        {
+            "areasID": 1,
+            "nameUA": "\u0421\u043d\u043e\u0432\u0441\u044c\u043a",
+            "nameEN": "Snovsk",
+            "latitude": 51.4913,
+            "longitude": 31.5703,
+            "icon": ".\\public\\img\\Snovsk.png"
+        },
+        {
+            "areasID": 10,
+            "nameUA": "\u0411\u043e\u0431\u0440\u0438\u043d\u0435\u0446\u044c",
+            "nameEN": "Bobrynets",
+            "latitude": "",
+            "longitude": "",
+            "icon": ".\\public\\img\\Bobrynets.png"
+        },
+        {
+            "areasID": 19,
+            "nameUA": "\u041d\u0435\u043c\u0438\u0440\u0456\u0432",
+            "nameEN": "Nemyriv",
+            "latitude": 48.58,
+            "longitude": 28.51,
+            "icon": ".\\public\\img\\Nemyriv.png"
+        },
+        {
+            "areasID": 15,
+            "nameUA": "\u041a\u043e\u0431\u0435\u043b\u044f\u043a\u0438",
+            "nameEN": "Kobeliaky",
+            "latitude": 49.08,
+            "longitude": 34.12,
+            "icon": ".\\public\\img\\Kobeliaky.png"
+        },
+        {
+            "areasID": 4,
+            "nameUA": "\u0420\u043e\u0434\u0438\u043d\u0441\u044c\u043a\u0435",
+            "nameEN": "Rodynske",
+            "latitude": "",
+            "longitude": "",
+            "icon": ".\\public\\img\\Rodynske.png"
+        },
+        {
+            "areasID": 0,
+            "nameUA": "\u0427\u0438\u0433\u0438\u0440\u0438\u043d",
+            "nameEN": "Chyhyryn",
+            "latitude": 49.0438,
+            "longitude": 32.3857,
+            "icon": ".\\public\\img\\Chyhyryn.jpg"
+        },
+        {
+            "areasID": 1,
+            "nameUA": "\u0411\u043e\u0431\u0440\u043e\u0432\u0438\u0446\u044f",
+            "nameEN": "Bobrovytsia",
+            "latitude": 50.4442,
+            "longitude": 31.2313,
+            "icon": ".\\public\\img\\Bobrovytsia.png"
+        },
+        {
+            "areasID": 12,
+            "nameUA": "\u0421\u043e\u0441\u043d\u0456\u0432\u043a\u0430",
+            "nameEN": "Sosnivka",
+            "latitude": 50.174,
+            "longitude": 24.15,
+            "icon": ".\\public\\img\\Sosnivka.png"
+        },
+        {
+            "areasID": 12,
+            "nameUA": "\u0416\u0438\u0434\u0430\u0447\u0456\u0432",
+            "nameEN": "Zhydachiv",
+            "latitude": 49.2306,
+            "longitude": 24.084,
+            "icon": ".\\public\\img\\Zhydachiv.jpg"
+        },
+        {
+            "areasID": 19,
+            "nameUA": "\u042f\u043c\u043f\u0456\u043b\u044c",
+            "nameEN": "Yampil",
+            "latitude": 48.21,
+            "longitude": 28.1912,
+            "icon": ".\\public\\img\\Yampil.png"
+        },
+        {
+            "areasID": 4,
+            "nameUA": "\u041c\u043e\u0441\u043f\u0438\u043d\u0435",
+            "nameEN": "Mospyne",
+            "latitude": "",
+            "longitude": "",
+            "icon": ".\\public\\img\\Mospyne.jpg"
+        },
+        {
+            "areasID": 1,
+            "nameUA": "\u0411\u043e\u0440\u0437\u043d\u0430",
+            "nameEN": "Borzna",
+            "latitude": 51.1511,
+            "longitude": 32.2545,
+            "icon": ".\\public\\img\\Borzna.png"
+        },
+        {
+            "areasID": 26,
+            "nameUA": "\u0429\u043e\u043b\u043a\u0456\u043d\u0435",
+            "nameEN": "Shcholkine",
+            "latitude": 45.2525,
+            "longitude": 35.497,
+            "icon": ".\\public\\img\\Shcholkine.png"
+        },
+        {
+            "areasID": 17,
+            "nameUA": "\u0411\u0443\u0440\u0438\u043d\u044c",
+            "nameEN": "Buryn",
+            "latitude": "",
+            "longitude": "",
+            "icon": ".\\public\\img\\Buryn.png"
+        },
+        {
+            "areasID": 12,
+            "nameUA": "\u041a\u0430\u043c'\u044f\u043d\u043a\u0430-\u0411\u0443\u0437\u044c\u043a\u0430",
+            "nameEN": "Kamianka-Buzka",
+            "latitude": 50.06,
+            "longitude": 24.21,
+            "icon": ".\\public\\img\\Kamianka-Buzka.png"
+        },
+        {
+            "areasID": 15,
+            "nameUA": "\u0413\u0440\u0435\u0431\u0456\u043d\u043a\u0430",
+            "nameEN": "Hrebinka",
+            "latitude": 50.7,
+            "longitude": 32.25,
+            "icon": ".\\public\\img\\Hrebinka.jpg"
+        },
+        {
+            "areasID": 0,
+            "nameUA": "\u0425\u0440\u0438\u0441\u0442\u0438\u043d\u0456\u0432\u043a\u0430",
+            "nameEN": "Khrystynivka",
+            "latitude": 48.48,
+            "longitude": 29.58,
+            "icon": ".\\public\\img\\Khrystynivka.png"
+        },
+        {
+            "areasID": 11,
+            "nameUA": "\u0413\u0456\u0440\u0441\u044c\u043a\u0435",
+            "nameEN": "Hirske",
+            "latitude": "",
+            "longitude": "",
+            "icon": ".\\public\\img\\Hirske.jpg"
+        },
+        {
+            "areasID": 7,
+            "nameUA": "\u0422\u0430\u0432\u0440\u0456\u0439\u0441\u044c\u043a",
+            "nameEN": "Tavriysk",
+            "latitude": 46.45,
+            "longitude": 33.25,
+            "icon": ".\\public\\img\\Tavriysk.png"
+        },
+        {
+            "areasID": 18,
+            "nameUA": "\u0411\u043e\u0440\u0449\u0456\u0432",
+            "nameEN": "Borschiv",
+            "latitude": 48.481,
+            "longitude": 26.211,
+            "icon": ".\\public\\img\\Borschiv.png"
+        },
+        {
+            "areasID": 11,
+            "nameUA": "\u0417\u0438\u043c\u043e\u0433\u0456\u0440'\u044f",
+            "nameEN": "Zymohiria",
+            "latitude": "",
+            "longitude": "",
+            "icon": ".\\public\\img\\Zymohiria.png"
+        },
+        {
+            "areasID": 2,
+            "nameUA": "\u0425\u043e\u0442\u0438\u043d",
+            "nameEN": "Khotyn",
+            "latitude": 48.3,
+            "longitude": 26.3,
+            "icon": ".\\public\\img\\Khotyn.png"
+        },
+        {
+            "areasID": 19,
+            "nameUA": "\u0406\u043b\u043b\u0456\u043d\u0446\u0456",
+            "nameEN": "Illintsi",
+            "latitude": 49.062,
+            "longitude": 29.1232,
+            "icon": ".\\public\\img\\Illintsi.gif"
+        },
+        {
+            "areasID": 10,
+            "nameUA": "\u041f\u043e\u043c\u0456\u0447\u043d\u0430",
+            "nameEN": "Pomichna",
+            "latitude": "",
+            "longitude": "",
+            "icon": ".\\public\\img\\Pomichna.PNG"
+        },
+        {
+            "areasID": 23,
+            "nameUA": "\u041e\u043b\u0435\u0432\u0441\u044c\u043a",
+            "nameEN": "Olevsk",
+            "latitude": "",
+            "longitude": "",
+            "icon": ".\\public\\img\\Olevsk.png"
+        },
+        {
+            "areasID": 20,
+            "nameUA": "\u041a\u0430\u043c\u0456\u043d\u044c-\u041a\u0430\u0448\u0438\u0440\u0441\u044c\u043a\u0438\u0439",
+            "nameEN": "Kamin-Kashyrskyi",
+            "latitude": 51.3712,
+            "longitude": 24.5755,
+            "icon": ".\\public\\img\\Kamin-Kashyrskyi.jpg"
+        },
+        {
+            "areasID": null,
+            "nameUA": "\u0422\u0430\u0442\u0430\u0440\u0431\u0443\u043d\u0430\u0440\u0438",
+            "nameEN": "Tatarbunary",
+            "latitude": 45.5049,
+            "longitude": 29.364,
+            "icon": ".\\public\\img\\Tatarbunary.png"
+        },
+        {
+            "areasID": 19,
+            "nameUA": "\u041f\u043e\u0433\u0440\u0435\u0431\u0438\u0449\u0435",
+            "nameEN": "Pohrebysche",
+            "latitude": 49.29,
+            "longitude": 29.16,
+            "icon": ".\\public\\img\\Pohrebysche.PNG"
+        },
+        {
+            "areasID": 4,
+            "nameUA": "\u041c\u0430\u0440'\u0457\u043d\u043a\u0430",
+            "nameEN": "Maryinka",
+            "latitude": 47.5631,
+            "longitude": 37.3013,
+            "icon": ".\\public\\img\\Maryinka.jpg"
+        },
+        {
+            "areasID": 5,
+            "nameUA": "\u0411\u043e\u043b\u0435\u0445\u0456\u0432",
+            "nameEN": "Bolekhiv",
+            "latitude": 49.0401,
+            "longitude": 23.5105,
+            "icon": ".\\public\\img\\Bolekhiv.png"
+        },
+        {
+            "areasID": 25,
+            "nameUA": "\u0406\u043d\u043a\u0435\u0440\u043c\u0430\u043d",
+            "nameEN": "Inkerman",
+            "latitude": 44.36,
+            "longitude": 33.36,
+            "icon": ".\\public\\img\\Inkerman.png"
+        },
+        {
+            "areasID": 15,
+            "nameUA": "\u0417\u0456\u043d\u044c\u043a\u0456\u0432",
+            "nameEN": "Zinkiv",
+            "latitude": 50.12,
+            "longitude": 34.21,
+            "icon": ".\\public\\img\\Zinkiv.png"
+        },
+        {
+            "areasID": 12,
+            "nameUA": "\u0425\u043e\u0434\u043e\u0440\u0456\u0432",
+            "nameEN": "Khodoriv",
+            "latitude": "",
+            "longitude": "",
+            "icon": ".\\public\\img\\Khodoriv.png"
+        },
+        {
+            "areasID": 5,
+            "nameUA": "\u0421\u043d\u044f\u0442\u0438\u043d",
+            "nameEN": "Sniatyn",
+            "latitude": 48.27,
+            "longitude": 25.34,
+            "icon": ".\\public\\img\\Sniatyn.png"
+        },
+        {
+            "areasID": 8,
+            "nameUA": "\u0414\u0435\u0440\u0430\u0436\u043d\u044f",
+            "nameEN": "Derazhnia",
+            "latitude": "",
+            "longitude": "",
+            "icon": ".\\public\\img\\Derazhnia.PNG"
+        },
+        {
+            "areasID": 20,
+            "nameUA": "\u041b\u044e\u0431\u043e\u043c\u043b\u044c",
+            "nameEN": "Liuboml",
+            "latitude": 51.1325,
+            "longitude": 24.0158,
+            "icon": ".\\public\\img\\Liuboml.png"
+        },
+        {
+            "areasID": 6,
+            "nameUA": "\u0412\u0430\u043b\u043a\u0438",
+            "nameEN": "Valky",
+            "latitude": 49.5,
+            "longitude": 35.37,
+            "icon": ".\\public\\img\\Valky.png"
+        },
+        {
+            "areasID": 2,
+            "nameUA": "\u041d\u043e\u0432\u043e\u0434\u043d\u0456\u0441\u0442\u0440\u043e\u0432\u0441\u044c\u043a",
+            "nameEN": "Novodnistrovsk",
+            "latitude": 48.344,
+            "longitude": 27.2629,
+            "icon": ".\\public\\img\\Novodnistrovsk.png"
+        },
+        {
+            "areasID": 16,
+            "nameUA": "\u0420\u0430\u0434\u0438\u0432\u0438\u043b\u0456\u0432",
+            "nameEN": "Radyvyliv",
+            "latitude": 50.0743,
+            "longitude": 25.1552,
+            "icon": ".\\public\\img\\Radyvyliv.PNG"
+        },
+        {
+            "areasID": 4,
+            "nameUA": "\u0412\u0443\u0433\u043b\u0435\u0433\u0456\u0440\u0441\u044c\u043a",
+            "nameEN": "Vuhlehirsk",
+            "latitude": "",
+            "longitude": "",
+            "icon": ".\\public\\img\\Vuhlehirsk.png"
+        },
+        {
+            "areasID": 2,
+            "nameUA": "\u0421\u043e\u043a\u0438\u0440\u044f\u043d\u0438",
+            "nameEN": "Sokyriany",
+            "latitude": 48.27,
+            "longitude": 27.22,
+            "icon": ".\\public\\img\\Sokyriany.png"
+        },
+        {
+            "areasID": 3,
+            "nameUA": "\u0412\u0435\u0440\u0445\u0456\u0432\u0446\u0435\u0432\u0435",
+            "nameEN": "Verkhivtseve",
+            "latitude": 48.297,
+            "longitude": 34.1514,
+            "icon": ".\\public\\img\\Verkhivtseve.png"
+        },
+        {
+            "areasID": 18,
+            "nameUA": "\u0417\u0430\u043b\u0456\u0449\u0438\u043a\u0438",
+            "nameEN": "Zalischyky",
+            "latitude": 48.39,
+            "longitude": 25.44,
+            "icon": ".\\public\\img\\Zalischyky.png"
+        },
+        {
+            "areasID": 26,
+            "nameUA": "\u0421\u0442\u0430\u0440\u0438\u0439 \u041a\u0440\u0438\u043c",
+            "nameEN": "Staryi Krym",
+            "latitude": 45.145,
+            "longitude": 35.519,
+            "icon": ".\\public\\img\\Staryi Krym.png"
+        },
+        {
+            "areasID": 4,
+            "nameUA": "\u0411\u0456\u043b\u0438\u0446\u044c\u043a\u0435",
+            "nameEN": "Bilytske",
+            "latitude": 48.24,
+            "longitude": 37.11,
+            "icon": ".\\public\\img\\Bilytske.gif"
+        },
+        {
+            "areasID": 3,
+            "nameUA": "\u041f\u0435\u0440\u0435\u0449\u0435\u043f\u0438\u043d\u0435",
+            "nameEN": "Pereschepyne",
+            "latitude": "",
+            "longitude": "",
+            "icon": ".\\public\\img\\Pereschepyne.png"
+        },
+        {
+            "areasID": 23,
+            "nameUA": "\u0410\u043d\u0434\u0440\u0443\u0448\u0456\u0432\u043a\u0430",
+            "nameEN": "Andrushivka",
+            "latitude": 50.1,
+            "longitude": 29.1,
+            "icon": ".\\public\\img\\Andrushivka.png"
+        },
+        {
+            "areasID": 12,
+            "nameUA": "\u041f\u0443\u0441\u0442\u043e\u043c\u0438\u0442\u0438",
+            "nameEN": "Pustomyty",
+            "latitude": 49.425,
+            "longitude": 23.5439,
+            "icon": ".\\public\\img\\Pustomyty.png"
+        },
+        {
+            "areasID": 5,
+            "nameUA": "\u0413\u043e\u0440\u043e\u0434\u0435\u043d\u043a\u0430",
+            "nameEN": "Horodenka",
+            "latitude": 48.403,
+            "longitude": 25.301,
+            "icon": ".\\public\\img\\Horodenka.png"
+        },
+        {
+            "areasID": 5,
+            "nameUA": "\u0422\u0438\u0441\u043c\u0435\u043d\u0438\u0446\u044f",
+            "nameEN": "Tysmenytsia",
+            "latitude": 48.5403,
+            "longitude": 24.5057,
+            "icon": ".\\public\\img\\Tysmenytsia.gif"
+        },
+        {
+            "areasID": 21,
+            "nameUA": "\u0422\u044f\u0447\u0456\u0432",
+            "nameEN": "Tiachiv",
+            "latitude": 48.0041,
+            "longitude": 23.342,
+            "icon": ".\\public\\img\\Tiachiv.png"
+        },
+        {
+            "areasID": 1,
+            "nameUA": "\u0421\u0435\u043c\u0435\u043d\u0456\u0432\u043a\u0430",
+            "nameEN": "Semenivka",
+            "latitude": 52.103,
+            "longitude": 32.344,
+            "icon": ".\\public\\img\\Semenivka.png"
+        },
+        {
+            "areasID": 16,
+            "nameUA": "\u0414\u0443\u0431\u0440\u043e\u0432\u0438\u0446\u044f",
+            "nameEN": "Dubrovytsia",
+            "latitude": 51.34,
+            "longitude": 26.34,
+            "icon": ".\\public\\img\\Dubrovytsia.png"
+        },
+        {
+            "areasID": null,
+            "nameUA": "\u041a\u043e\u0434\u0438\u043c\u0430",
+            "nameEN": "Kodyma",
+            "latitude": 48.6,
+            "longitude": 29.7,
+            "icon": ".\\public\\img\\Kodyma.png"
+        },
+        {
+            "areasID": 21,
+            "nameUA": "\u0406\u0440\u0448\u0430\u0432\u0430",
+            "nameEN": "Irshava",
+            "latitude": 48.18,
+            "longitude": 23.03,
+            "icon": ".\\public\\img\\Irshava.png"
+        },
+        {
+            "areasID": null,
+            "nameUA": "\u0411\u0435\u0440\u0435\u0437\u0456\u0432\u043a\u0430",
+            "nameEN": "Berezivka",
+            "latitude": 47.1214,
+            "longitude": 30.5446,
+            "icon": ".\\public\\img\\Berezivka.png"
+        },
+        {
+            "areasID": null,
+            "nameUA": "\u0410\u043d\u0430\u043d\u044c\u0457\u0432",
+            "nameEN": "Ananyiv",
+            "latitude": 47.43,
+            "longitude": 29.58,
+            "icon": ".\\public\\img\\Ananyiv.png"
+        },
+        {
+            "areasID": 0,
+            "nameUA": "\u041c\u043e\u043d\u0430\u0441\u0442\u0438\u0440\u0438\u0449\u0435",
+            "nameEN": "Monastyrysche",
+            "latitude": 48.5924,
+            "longitude": 29.4804,
+            "icon": ".\\public\\img\\Monastyrysche.png"
+        },
+        {
+            "areasID": 19,
+            "nameUA": "\u041b\u0438\u043f\u043e\u0432\u0435\u0446\u044c",
+            "nameEN": "Lypovets",
+            "latitude": 49.1315,
+            "longitude": 29.0325,
+            "icon": ".\\public\\img\\Lypovets.png"
+        },
+        {
+            "areasID": null,
+            "nameUA": "\u0412\u0438\u043b\u043a\u043e\u0432\u0435",
+            "nameEN": "Vylkove",
+            "latitude": 45.2357,
+            "longitude": 29.3537,
+            "icon": ".\\public\\img\\Vylkove.png"
+        },
+        {
+            "areasID": 12,
+            "nameUA": "\u0420\u0430\u0434\u0435\u0445\u0456\u0432",
+            "nameEN": "Radekhiv",
+            "latitude": 50.1658,
+            "longitude": 24.3815,
+            "icon": ".\\public\\img\\Radekhiv.png"
+        },
+        {
+            "areasID": 12,
+            "nameUA": "\u041c\u043e\u0441\u0442\u0438\u0441\u044c\u043a\u0430",
+            "nameEN": "Mostyska",
+            "latitude": "",
+            "longitude": "",
+            "icon": ".\\public\\img\\Mostyska.png"
+        },
+        {
+            "areasID": 11,
+            "nameUA": "\u0410\u0440\u0442\u0435\u043c\u0456\u0432\u0441\u044c\u043a",
+            "nameEN": "Artemivsk",
+            "latitude": "",
+            "longitude": "",
+            "icon": null
+        },
+        {
+            "areasID": 11,
+            "nameUA": "\u041d\u043e\u0432\u043e\u0434\u0440\u0443\u0436\u0435\u0441\u044c\u043a",
+            "nameEN": "Novodruzhesk",
+            "latitude": "",
+            "longitude": "",
+            "icon": ".\\public\\img\\Novodruzhesk.jpg"
+        },
+        {
+            "areasID": 15,
+            "nameUA": "\u0417\u0430\u0432\u043e\u0434\u0441\u044c\u043a\u0435",
+            "nameEN": "Zavodske",
+            "latitude": "",
+            "longitude": "",
+            "icon": ".\\public\\img\\Zavodske.png"
+        },
+        {
+            "areasID": 26,
+            "nameUA": "\u0410\u043b\u0443\u043f\u043a\u0430",
+            "nameEN": "Alupka",
+            "latitude": 44.2511,
+            "longitude": 34.235,
+            "icon": ".\\public\\img\\Alupka.png"
+        },
+        {
+            "areasID": 20,
+            "nameUA": "\u0413\u043e\u0440\u043e\u0445\u0456\u0432",
+            "nameEN": "Horokhiv",
+            "latitude": 50.2958,
+            "longitude": 24.4554,
+            "icon": ".\\public\\img\\Horokhiv.png"
+        },
+        {
+            "areasID": 11,
+            "nameUA": "\u041f\u0440\u0438\u0432\u0456\u043b\u043b\u044f",
+            "nameEN": "Pryvillia",
+            "latitude": "",
+            "longitude": "",
+            "icon": ".\\public\\img\\Pryvillia.gif"
+        },
+        {
+            "areasID": 21,
+            "nameUA": "\u0427\u043e\u043f",
+            "nameEN": "Chop",
+            "latitude": 48.255,
+            "longitude": 22.12,
+            "icon": ".\\public\\img\\Chop.png"
+        },
+        {
+            "areasID": 2,
+            "nameUA": "\u0417\u0430\u0441\u0442\u0430\u0432\u043d\u0430",
+            "nameEN": "Zastavna",
+            "latitude": 48.3113,
+            "longitude": 25.5042,
+            "icon": ".\\public\\img\\Zastavna.png"
+        },
+        {
+            "areasID": 11,
+            "nameUA": "\u0417\u043e\u0440\u0438\u043d\u0441\u044c\u043a",
+            "nameEN": "Zorynsk",
+            "latitude": "",
+            "longitude": "",
+            "icon": ".\\public\\img\\Zorynsk.jpg"
+        },
+        {
+            "areasID": 5,
+            "nameUA": "\u0422\u043b\u0443\u043c\u0430\u0447",
+            "nameEN": "Tlumach",
+            "latitude": 48.52,
+            "longitude": 25.0,
+            "icon": ".\\public\\img\\Tlumach.png"
+        },
+        {
+            "areasID": null,
+            "nameUA": "\u0422\u0435\u043f\u043b\u043e\u0434\u0430\u0440",
+            "nameEN": "Teplodar",
+            "latitude": 46.3013,
+            "longitude": 30.1928,
+            "icon": ".\\public\\img\\Teplodar.png"
+        },
+        {
+            "areasID": 18,
+            "nameUA": "\u041b\u0430\u043d\u0456\u0432\u0446\u0456",
+            "nameEN": "Lanivtsi",
+            "latitude": 49.5212,
+            "longitude": 26.0448,
+            "icon": ".\\public\\img\\Lanivtsi.png"
+        },
+        {
+            "areasID": 12,
+            "nameUA": "\u0411\u0443\u0441\u044c\u043a",
+            "nameEN": "Busk",
+            "latitude": 49.58,
+            "longitude": 24.37,
+            "icon": ".\\public\\img\\Busk.png"
+        },
+        {
+            "areasID": 16,
+            "nameUA": "\u041a\u043e\u0440\u0435\u0446\u044c",
+            "nameEN": "Korets",
+            "latitude": 50.3702,
+            "longitude": 27.1039,
+            "icon": ".\\public\\img\\Korets.png"
+        },
+        {
+            "areasID": 5,
+            "nameUA": "\u0420\u043e\u0433\u0430\u0442\u0438\u043d",
+            "nameEN": "Rohatyn",
+            "latitude": 49.25,
+            "longitude": 24.37,
+            "icon": ".\\public\\img\\Rohatyn.png"
+        },
+        {
+            "areasID": 6,
+            "nameUA": "\u041f\u0456\u0432\u0434\u0435\u043d\u043d\u0435",
+            "nameEN": "Pivdenne",
+            "latitude": "",
+            "longitude": "",
+            "icon": ".\\public\\img\\Pivdenne.png"
+        },
+        {
+            "areasID": 12,
+            "nameUA": "\u0414\u0443\u0431\u043b\u044f\u043d\u0438",
+            "nameEN": "Dubliany",
+            "latitude": 49.5346,
+            "longitude": 24.533,
+            "icon": ".\\public\\img\\Dubliany.png"
+        },
+        {
+            "areasID": 9,
+            "nameUA": "\u0420\u0436\u0438\u0449\u0456\u0432",
+            "nameEN": "Rzhyschiv",
+            "latitude": 49.574,
+            "longitude": 31.0237,
+            "icon": ".\\public\\img\\Rzhyschiv.png"
+        },
+        {
+            "areasID": 2,
+            "nameUA": "\u041d\u043e\u0432\u043e\u0441\u0435\u043b\u0438\u0446\u044f",
+            "nameEN": "Novoselytsia",
+            "latitude": 48.13,
+            "longitude": 26.16,
+            "icon": ".\\public\\img\\Novoselytsia.png"
+        },
+        {
+            "areasID": 17,
+            "nameUA": "\u0412\u043e\u0440\u043e\u0436\u0431\u0430",
+            "nameEN": "Vorozhba",
+            "latitude": "",
+            "longitude": "",
+            "icon": ".\\public\\img\\Vorozhba.png"
+        },
+        {
+            "areasID": 5,
+            "nameUA": "\u041a\u043e\u0441\u0456\u0432",
+            "nameEN": "Kosiv",
+            "latitude": 48.1854,
+            "longitude": 25.0543,
+            "icon": ".\\public\\img\\Kosiv.png"
+        },
+        {
+            "areasID": 18,
+            "nameUA": "\u041f\u043e\u0447\u0430\u0457\u0432",
+            "nameEN": "Pochaiv",
+            "latitude": 50.01,
+            "longitude": 25.3035,
+            "icon": ".\\public\\img\\Pochaiv.png"
+        },
+        {
+            "areasID": 12,
+            "nameUA": "\u0420\u0430\u0432\u0430-\u0440\u0443\u0441\u044c\u043a\u0430",
+            "nameEN": "Rava-Ruska",
+            "latitude": 50.133,
+            "longitude": 23.3727,
+            "icon": ".\\public\\img\\Rava-Ruska.png"
+        },
+        {
+            "areasID": 22,
+            "nameUA": "\u041c\u043e\u043b\u043e\u0447\u0430\u043d\u0441\u044c\u043a",
+            "nameEN": "Molochansk",
+            "latitude": 47.1226,
+            "longitude": 35.3541,
+            "icon": ".\\public\\img\\Molochansk.png"
+        },
+        {
+            "areasID": 5,
+            "nameUA": "\u042f\u0440\u0435\u043c\u0447\u0430",
+            "nameEN": "Yaremcha",
+            "latitude": 48.2737,
+            "longitude": 24.3331,
+            "icon": null
+        },
+        {
+            "areasID": 12,
+            "nameUA": "\u0422\u0443\u0440\u043a\u0430",
+            "nameEN": "Turka",
+            "latitude": 49.0927,
+            "longitude": 23.0121,
+            "icon": ".\\public\\img\\Turka.png"
+        },
+        {
+            "areasID": 2,
+            "nameUA": "\u041a\u0456\u0446\u043c\u0430\u043d\u044c",
+            "nameEN": "Kitsman",
+            "latitude": 48.265,
+            "longitude": 25.456,
+            "icon": ".\\public\\img\\Kitsman.png"
+        },
+        {
+            "areasID": 12,
+            "nameUA": "\u041f\u0435\u0440\u0435\u043c\u0438\u0448\u043b\u044f\u043d\u0438",
+            "nameEN": "Peremyshliany",
+            "latitude": 49.4012,
+            "longitude": 24.3334,
+            "icon": ".\\public\\img\\Peremyshliany.png"
+        },
+        {
+            "areasID": 10,
+            "nameUA": "\u0411\u043b\u0430\u0433\u043e\u0432\u0456\u0449\u0435\u043d\u0441\u044c\u043a\u0435",
+            "nameEN": "Blahovishchenske",
+            "latitude": "",
+            "longitude": "",
+            "icon": ".\\public\\img\\Blahovishchenske.png"
+        },
+        {
+            "areasID": 17,
+            "nameUA": "\u0421\u0435\u0440\u0435\u0434\u0438\u043d\u0430-\u0411\u0443\u0434\u0430",
+            "nameEN": "Seredyna-Buda",
+            "latitude": 52.1109,
+            "longitude": 34.0218,
+            "icon": ".\\public\\img\\Seredyna-Buda.png"
+        },
+        {
+            "areasID": 18,
+            "nameUA": "\u0417\u0431\u043e\u0440\u0456\u0432",
+            "nameEN": "Zboriv",
+            "latitude": 49.4,
+            "longitude": 25.09,
+            "icon": ".\\public\\img\\Zboriv.png"
+        },
+        {
+            "areasID": 18,
+            "nameUA": "\u0425\u043e\u0440\u043e\u0441\u0442\u043a\u0456\u0432",
+            "nameEN": "Khorostkiv",
+            "latitude": "",
+            "longitude": "",
+            "icon": ".\\public\\img\\Khorostkiv.jpg"
+        },
+        {
+            "areasID": 1,
+            "nameUA": "\u041e\u0441\u0442\u0435\u0440",
+            "nameEN": "Oster",
+            "latitude": 50.5655,
+            "longitude": 30.5252,
+            "icon": ".\\public\\img\\Oster.png"
+        },
+        {
+            "areasID": 19,
+            "nameUA": "\u0428\u0430\u0440\u0433\u043e\u0440\u043e\u0434",
+            "nameEN": "Sharhorod",
+            "latitude": 48.45,
+            "longitude": 28.5,
+            "icon": ".\\public\\img\\Sharhorod.png"
+        },
+        {
+            "areasID": 21,
+            "nameUA": "\u041f\u0435\u0440\u0435\u0447\u0438\u043d",
+            "nameEN": "Perechyn",
+            "latitude": 48.4403,
+            "longitude": 22.2827,
+            "icon": ".\\public\\img\\Perechyn.png"
+        },
+        {
+            "areasID": 11,
+            "nameUA": "\u041e\u043b\u0435\u043a\u0441\u0430\u043d\u0434\u0440\u0456\u0432\u0441\u044c\u043a",
+            "nameEN": "Oleksandrivsk",
+            "latitude": 48.35,
+            "longitude": 39.11,
+            "icon": ".\\public\\img\\Oleksandrivsk.png"
+        },
+        {
+            "areasID": 18,
+            "nameUA": "\u041a\u043e\u043f\u0438\u0447\u0438\u043d\u0446\u0456",
+            "nameEN": "Kopychyntsi",
+            "latitude": 49.0629,
+            "longitude": 25.5446,
+            "icon": ".\\public\\img\\Kopychyntsi.gif"
+        },
+        {
+            "areasID": 12,
+            "nameUA": "\u0421\u043a\u043e\u043b\u0435",
+            "nameEN": "Skole",
+            "latitude": "",
+            "longitude": "",
+            "icon": ".\\public\\img\\Skole.gif"
+        },
+        {
+            "areasID": 4,
+            "nameUA": "\u0410\u0440\u0442\u0435\u043c\u043e\u0432\u0435",
+            "nameEN": "Artemove",
+            "latitude": 47.47,
+            "longitude": 38.29,
+            "icon": null
+        },
+        {
+            "areasID": 12,
+            "nameUA": "\u0421\u0443\u0434\u043e\u0432\u0430 \u0412\u0438\u0448\u043d\u044f",
+            "nameEN": "Sudova Vyshnia",
+            "latitude": 49.4721,
+            "longitude": 23.222,
+            "icon": ".\\public\\img\\Sudova Vyshnia.png"
+        },
+        {
+            "areasID": 5,
+            "nameUA": "\u0413\u0430\u043b\u0438\u0447",
+            "nameEN": "Halych",
+            "latitude": 49.729,
+            "longitude": 24.4343,
+            "icon": ".\\public\\img\\Halych.png"
+        },
+        {
+            "areasID": 12,
+            "nameUA": "\u041c\u043e\u0440\u0448\u0438\u043d",
+            "nameEN": "Morshyn",
+            "latitude": 49.09,
+            "longitude": 23.52,
+            "icon": ".\\public\\img\\Morshyn.png"
+        },
+        {
+            "areasID": 18,
+            "nameUA": "\u041c\u043e\u043d\u0430\u0441\u0442\u0438\u0440\u0438\u0441\u044c\u043a\u0430",
+            "nameEN": "Monastyryska",
+            "latitude": "",
+            "longitude": "",
+            "icon": ".\\public\\img\\Monastyryska.png"
+        },
+        {
+            "areasID": 11,
+            "nameUA": "\u041c\u0456\u0443\u0441\u0438\u043d\u0441\u044c\u043a",
+            "nameEN": "Miusynsk",
+            "latitude": 48.432,
+            "longitude": 38.536,
+            "icon": ".\\public\\img\\Miusynsk.jpg"
+        },
+        {
+            "areasID": 2,
+            "nameUA": "\u0412\u0430\u0448\u043a\u0456\u0432\u0446\u0456",
+            "nameEN": "Vashkivtsi",
+            "latitude": 48.2231,
+            "longitude": 25.2952,
+            "icon": ".\\public\\img\\Vashkivtsi.png"
+        },
+        {
+            "areasID": 12,
+            "nameUA": "\u0412\u0435\u043b\u0438\u043a\u0456 \u041c\u043e\u0441\u0442\u0438",
+            "nameEN": "Velyki Mosty",
+            "latitude": 50.1424,
+            "longitude": 24.0822,
+            "icon": ".\\public\\img\\Velyki Mosty.png"
+        },
+        {
+            "areasID": 17,
+            "nameUA": "\u0414\u0440\u0443\u0436\u0431\u0430",
+            "nameEN": "Druzhba",
+            "latitude": 52.0255,
+            "longitude": 33.5635,
+            "icon": ".\\public\\img\\Druzhba.png"
+        },
+        {
+            "areasID": 12,
+            "nameUA": "\u0421\u0442\u0430\u0440\u0438\u0439 \u0421\u0430\u043c\u0431\u0456\u0440",
+            "nameEN": "Staryi Sambir",
+            "latitude": 49.2635,
+            "longitude": 23.0012,
+            "icon": ".\\public\\img\\Staryi Sambir.png"
+        },
+        {
+            "areasID": 5,
+            "nameUA": "\u0411\u0440\u043e\u0448\u043d\u0456\u0432-\u041e\u0441\u0430\u0434\u0430",
+            "nameEN": "Broshniv-Osada",
+            "latitude": 48.5938,
+            "longitude": 24.114,
+            "icon": null
+        },
+        {
+            "areasID": 18,
+            "nameUA": "\u0428\u0443\u043c\u0441\u044c\u043a",
+            "nameEN": "Shumsk",
+            "latitude": "",
+            "longitude": "",
+            "icon": ".\\public\\img\\Shumsk.png"
+        },
+        {
+            "areasID": 4,
+            "nameUA": "\u0421\u0432\u044f\u0442\u043e\u0433\u0456\u0440\u0441\u044c\u043a",
+            "nameEN": "Sviatohirsk",
+            "latitude": 49.02,
+            "longitude": 37.34,
+            "icon": ".\\public\\img\\Sviatohirsk.png"
+        },
+        {
+            "areasID": 11,
+            "nameUA": "\u0410\u043b\u043c\u0430\u0437\u043d\u0430",
+            "nameEN": "Almazna",
+            "latitude": "",
+            "longitude": "",
+            "icon": ".\\public\\img\\Almazna.jpg"
+        },
+        {
+            "areasID": 5,
+            "nameUA": "\u0421\u0432\u0430\u0440\u0438\u0447\u0456\u0432",
+            "nameEN": "Svarychiv",
+            "latitude": "",
+            "longitude": "",
+            "icon": null
+        },
+        {
+            "areasID": 2,
+            "nameUA": "\u0412\u0438\u0436\u043d\u0438\u0446\u044f",
+            "nameEN": "Vyzhnytsia",
+            "latitude": 48.15,
+            "longitude": 25.113,
+            "icon": ".\\public\\img\\Vyzhnytsia.png"
+        },
+        {
+            "areasID": 0,
+            "nameUA": "\u041c\u0430\u0439\u0434\u0430\u043d\u0435\u0446",
+            "nameEN": "Maydanets",
+            "latitude": 48.4836,
+            "longitude": 30.4201,
+            "icon": null
+        },
+        {
+            "areasID": 12,
+            "nameUA": "\u0414\u043e\u0431\u0440\u043e\u043c\u0438\u043b\u044c",
+            "nameEN": "Dobromyl",
+            "latitude": 49.34,
+            "longitude": 22.47,
+            "icon": ".\\public\\img\\Dobromyl.png"
+        },
+        {
+            "areasID": 12,
+            "nameUA": "\u0420\u0443\u0434\u043a\u0438",
+            "nameEN": "Rudky",
+            "latitude": 49.391,
+            "longitude": 23.2913,
+            "icon": ".\\public\\img\\Rudky.jpg"
+        },
+        {
+            "areasID": 12,
+            "nameUA": "\u0425\u0438\u0440\u0456\u0432",
+            "nameEN": "Khyriv",
+            "latitude": 49.32,
+            "longitude": 22.51,
+            "icon": ".\\public\\img\\Khyriv.png"
+        },
+        {
+            "areasID": 18,
+            "nameUA": "\u0421\u043a\u0430\u043b\u0430\u0442",
+            "nameEN": "Skalat",
+            "latitude": "",
+            "longitude": "",
+            "icon": ".\\public\\img\\Skalat.png"
+        },
+        {
+            "areasID": 12,
+            "nameUA": "\u041a\u043e\u043c\u0430\u0440\u043d\u043e",
+            "nameEN": "Komarno",
+            "latitude": 49.375,
+            "longitude": 23.4211,
+            "icon": ".\\public\\img\\Komarno.png"
+        },
+        {
+            "areasID": 12,
+            "nameUA": "\u0411\u0456\u0431\u0440\u043a\u0430",
+            "nameEN": "Bibrka",
+            "latitude": "",
+            "longitude": "",
+            "icon": ".\\public\\img\\Bibrka.png"
+        },
+        {
+            "areasID": 12,
+            "nameUA": "\u041d\u043e\u0432\u0438\u0439 \u041a\u0430\u043b\u0438\u043d\u0456\u0432",
+            "nameEN": "Novyi Kalyniv",
+            "latitude": "",
+            "longitude": "",
+            "icon": ".\\public\\img\\Novyi Kalyniv.png"
+        },
+        {
+            "areasID": 12,
+            "nameUA": "\u0413\u043b\u0438\u043d\u044f\u043d\u0438",
+            "nameEN": "Hlyniany",
+            "latitude": 49.4924,
+            "longitude": 24.31,
+            "icon": ".\\public\\img\\Hlyniany.png"
+        },
+        {
+            "areasID": 18,
+            "nameUA": "\u041f\u0456\u0434\u0433\u0430\u0439\u0446\u0456",
+            "nameEN": "Pidhaitsi",
+            "latitude": 49.161,
+            "longitude": 25.8,
+            "icon": ".\\public\\img\\Pidhaitsi.png"
+        },
+        {
+            "areasID": 1,
+            "nameUA": "\u0411\u0430\u0442\u0443\u0440\u0438\u043d",
+            "nameEN": "Baturyn",
+            "latitude": 51.21,
+            "longitude": 32.53,
+            "icon": ".\\public\\img\\Baturyn.png"
+        },
+        {
+            "areasID": 12,
+            "nameUA": "\u0411\u0435\u043b\u0437",
+            "nameEN": "Belz",
+            "latitude": 50.23,
+            "longitude": 24.01,
+            "icon": ".\\public\\img\\Belz.png"
+        },
+        {
+            "areasID": 20,
+            "nameUA": "\u0423\u0441\u0442\u0438\u043b\u0443\u0433",
+            "nameEN": "Ustyluh",
+            "latitude": 50.5136,
+            "longitude": 24.0925,
+            "icon": ".\\public\\img\\Ustyluh.png"
+        },
+        {
+            "areasID": 2,
+            "nameUA": "\u0413\u0435\u0440\u0446\u0430",
+            "nameEN": "Hertsa",
+            "latitude": 48.09,
+            "longitude": 26.15,
+            "icon": ".\\public\\img\\Hertsa.png"
+        },
+        {
+            "areasID": 20,
+            "nameUA": "\u0411\u0435\u0440\u0435\u0441\u0442\u0435\u0447\u043a\u043e",
+            "nameEN": "Berestechko",
+            "latitude": 50.21,
+            "longitude": 25.07,
+            "icon": ".\\public\\img\\Berestechko.png"
+        },
+        {
+            "areasID": 9,
+            "nameUA": "\u0427\u043e\u0440\u043d\u043e\u0431\u0438\u043b\u044c",
+            "nameEN": "Chernobyl",
+            "latitude": 51.162,
+            "longitude": 30.1327,
+            "icon": ".\\public\\img\\Chernobyl.gif"
+        },
+        {
+            "areasID": 12,
+            "nameUA": "\u0423\u0433\u043d\u0456\u0432",
+            "nameEN": "Uhniv",
+            "latitude": 50.22,
+            "longitude": 23.444,
+            "icon": ".\\public\\img\\Uhniv.png"
+        }
+    ],
+    "areasList": [
+        {
+            "nameUA": "\u0427\u0435\u0440\u043a\u0430\u0441\u044c\u043a\u0430 \u041e\u0431\u043b\u0430\u0441\u0442\u044c",
+            "nameEN": "Cherkasy Oblast",
+            "id": 0
+        },
+        {
+            "nameUA": "\u0427\u0435\u0440\u043d\u0456\u0433\u0456\u0432\u0441\u044c\u043a\u0430 \u041e\u0431\u043b\u0430\u0441\u0442\u044c",
+            "nameEN": "Chernihiv Oblast",
+            "id": 1
+        },
+        {
+            "nameUA": "\u0427\u0435\u0440\u043d\u0456\u0432\u0435\u0441\u044c\u043a\u0430 \u041e\u0431\u043b\u0430\u0441\u0442\u044c",
+            "nameEN": "Chernivtsi Oblast",
+            "id": 2
+        },
+        {
+            "nameUA": "\u0414\u043d\u0456\u043f\u0440\u043e\u043f\u0435\u0442\u0440\u043e\u0432\u0441\u044c\u043a\u0430 \u041e\u0431\u043b\u0430\u0441\u0442\u044c",
+            "nameEN": "Dnipropetrovsk Oblast",
+            "id": 3
+        },
+        {
+            "nameUA": "\u0414\u043e\u043d\u0435\u0446\u044c\u043a\u0430 \u041e\u0431\u043b\u0430\u0441\u0442\u044c",
+            "nameEN": "Donetsk Oblast",
+            "id": 4
+        },
+        {
+            "nameUA": "\u0406\u0432\u0430\u043d\u043e-\u0424\u0440\u0430\u043d\u043a\u0456\u0432\u0441\u044c\u043a\u0430 \u041e\u0431\u043b\u0430\u0441\u0442\u044c",
+            "nameEN": "Ivano-Frankivsk Oblast",
+            "id": 5
+        },
+        {
+            "nameUA": "\u0425\u0430\u0440\u043a\u0456\u0432\u0441\u044c\u043a\u0430 \u041e\u0431\u043b\u0430\u0441\u0442\u044c",
+            "nameEN": "Kharkiv Oblast",
+            "id": 6
+        },
+        {
+            "nameUA": "\u0425\u0435\u0440\u0441\u043e\u043d\u0441\u044c\u043a\u0430 \u041e\u0431\u043b\u0430\u0441\u0442\u044c",
+            "nameEN": "Kherson Oblast",
+            "id": 7
+        },
+        {
+            "nameUA": "\u0425\u043c\u0435\u043b\u044c\u043d\u0438\u0446\u044c\u043a\u0430 \u041e\u0431\u043b\u0430\u0441\u0442\u044c",
+            "nameEN": "Khmelnytskyi Oblast",
+            "id": 8
+        },
+        {
+            "nameUA": "\u041a\u0438\u0457\u0432\u0441\u044c\u043a\u0430 \u041e\u0431\u043b\u0430\u0441\u0442\u044c",
+            "nameEN": "Kiev Oblast",
+            "id": 9
+        },
+        {
+            "nameUA": "\u041a\u0456\u0440\u043e\u0432\u043e\u0433\u0440\u0430\u0434\u0441\u044c\u043a\u0430 \u041e\u0431\u043b\u0430\u0441\u0442\u044c",
+            "nameEN": "Kirovohrad Oblast",
+            "id": 10
+        },
+        {
+            "nameUA": "\u041b\u0443\u0433\u0430\u043d\u0441\u044c\u043a\u0430 \u041e\u0431\u043b\u0430\u0441\u0442\u044c",
+            "nameEN": "Luhansk Oblast",
+            "id": 11
+        },
+        {
+            "nameUA": "\u041b\u044c\u0432\u0456\u0432\u0441\u044c\u043a\u0430 \u041e\u0431\u043b\u0430\u0441\u0442\u044c",
+            "nameEN": "Lviv Oblast",
+            "id": 12
+        },
+        {
+            "nameUA": "\u041c\u0438\u043a\u043e\u043b\u0430\u0457\u0432\u0441\u044c\u043a\u0430 \u041e\u0431\u043b\u0430\u0441\u0442\u044c",
+            "nameEN": "Mykolaiv Oblast",
+            "id": 13
+        },
+        {
+            "nameUA": "\u041e\u0434\u0435\u0441\u044c\u043a\u0430 \u041e\u0431\u043b\u0430\u0441\u0442\u044c",
+            "nameEN": "Odesa Oblast",
+            "id": 14
+        },
+        {
+            "nameUA": "\u041f\u043e\u043b\u0442\u0430\u0432\u0441\u044c\u043a\u0430 \u041e\u0431\u043b\u0430\u0441\u0442\u044c",
+            "nameEN": "Poltava Oblast",
+            "id": 15
+        },
+        {
+            "nameUA": "\u0420\u0456\u0432\u043d\u0435\u043d\u0441\u044c\u043a\u0430 \u041e\u0431\u043b\u0430\u0441\u0442\u044c",
+            "nameEN": "Rivne Oblast",
+            "id": 16
+        },
+        {
+            "nameUA": "\u0421\u0443\u043c\u0441\u044c\u043a\u0430 \u041e\u0431\u043b\u0430\u0441\u0442\u044c",
+            "nameEN": "Sumy Oblast",
+            "id": 17
+        },
+        {
+            "nameUA": "\u0422\u0435\u0440\u043d\u043e\u043f\u0456\u043b\u044c\u0441\u044c\u043a\u0430 \u041e\u0431\u043b\u0430\u0441\u0442\u044c",
+            "nameEN": "Ternopil Oblast",
+            "id": 18
+        },
+        {
+            "nameUA": "\u0412\u0456\u043d\u043d\u0438\u0446\u044c\u043a\u0430 \u041e\u0431\u043b\u0430\u0441\u0442\u044c",
+            "nameEN": "Vinnytsia Oblast",
+            "id": 19
+        },
+        {
+            "nameUA": "\u0412\u043e\u043b\u0438\u043d\u0441\u044c\u043a\u0430 \u041e\u0431\u043b\u0430\u0441\u0442\u044c",
+            "nameEN": "Volyn Oblast",
+            "id": 20
+        },
+        {
+            "nameUA": "\u0417\u0430\u043a\u0430\u0440\u043f\u0430\u0442\u0441\u044c\u043a\u0430 \u041e\u0431\u043b\u0430\u0441\u0442\u044c",
+            "nameEN": "Zakarpattia Oblast",
+            "id": 21
+        },
+        {
+            "nameUA": "\u0417\u0430\u043f\u043e\u0440\u0456\u0437\u044c\u043a\u0430 \u041e\u0431\u043b\u0430\u0441\u0442\u044c",
+            "nameEN": "Zaporizhia Oblast",
+            "id": 22
+        },
+        {
+            "nameUA": "\u0416\u0438\u0442\u043e\u043c\u0438\u0440\u0441\u044c\u043a\u0430 \u041e\u0431\u043b\u0430\u0441\u0442\u044c",
+            "nameEN": "Zhytomyr Oblast",
+            "id": 23
+        },
+        {
+            "nameUA": "\u041a\u0438\u0457\u0432",
+            "nameEN": "Kyiv",
+            "id": 24
+        },
+        {
+            "nameUA": "\u0421\u0435\u0432\u0430\u0441\u0442\u043e\u043f\u043e\u043b\u044c",
+            "nameEN": "Sevastopol",
+            "id": 25
+        },
+        {
+            "nameUA": "\u041a\u0440\u0438\u043c",
+            "nameEN": "Crimea",
+            "id": 26
+        }
+    ]
+}
